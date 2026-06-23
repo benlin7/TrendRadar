@@ -1,15 +1,10 @@
-DeepSeek
-梁文锋
-
-谷歌
-google
+anthropic
+claude
 gemini
-
 chatgpt
 openai
 
 金价
-
 黄金
 +价格
 
@@ -23,3 +18,9 @@ openai
 特朗普
 
 伊朗
+
+半导体
+CPO
+存储芯片
+芯片
+内存
