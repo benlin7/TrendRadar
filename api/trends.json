@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-28T21:12:47.080965+08:00",
-  "total_titles_processed": 1176,
+  "generated_at": "2026-06-28T23:11:21.288323+08:00",
+  "total_titles_processed": 1284,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 100,
+      "match_count": 107,
       "titles": [
         {
           "title": "伊朗战事将如何影响美军中东布局？",
@@ -42,8 +42,37 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时55分 ~ 21时12分]"
+          "appearance_count": 19,
+          "time_info": "[00时55分 ~ 23时11分]"
+        },
+        {
+          "title": "伊朗锡里克地区传出爆炸声 美军称再对伊实施打击",
+          "url": "https://www.cls.cn/detail/2410985",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时13分 ~ 23时11分]"
+        },
+        {
+          "title": "伊朗锡里克地区传出爆炸声，美军称再对伊实施打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470204",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            7,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时13分 ~ 23时11分]"
         },
         {
           "title": "谅解备忘录签署后美伊再起冲突，美军以新加坡籍货船遇袭为由打击伊朗，伊朗打击美军驻点，如何看待当前局势？",
@@ -57,6 +86,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时55分 ~ 10时13分]"
+        },
+        {
+          "title": "美军称对伊朗实施新一轮打击",
+          "url": "https://www.douyin.com/hot/2550107",
+          "source": "抖音",
+          "ranks": [
+            15,
+            16,
+            14,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时13分 ~ 23时11分]"
         },
         {
           "title": "是灾难还是运气差？伊朗的世界杯之旅与VAR争议仍在继续",
@@ -98,49 +142,6 @@
           "time_info": "[00时55分 ~ 07时53分]"
         },
         {
-          "title": "伊朗锡里克地区传出爆炸声 美军称再对伊实施打击",
-          "url": "https://www.cls.cn/detail/2410985",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时13分 ~ 21时12分]"
-        },
-        {
-          "title": "伊朗锡里克地区传出爆炸声，美军称再对伊实施打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470204",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            7,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时13分 ~ 21时12分]"
-        },
-        {
-          "title": "美军称对伊朗实施新一轮打击",
-          "url": "https://www.douyin.com/hot/2550107",
-          "source": "抖音",
-          "ranks": [
-            15,
-            16,
-            14,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时13分 ~ 21时12分]"
-        },
-        {
           "title": "伊朗媒体称有更多船只申请通过霍尔木兹海峡",
           "url": "https://wallstreetcn.com/livenews/3125594",
           "source": "华尔街见闻-快讯",
@@ -163,6 +164,41 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时55分 ~ 10时13分]"
+        },
+        {
+          "title": "伊朗队队长怒斥：这届世界杯是场灾难",
+          "url": "https://news.ifeng.com/c/8uKJ5MNERg6",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时52分 ~ 23时11分]"
+        },
+        {
+          "title": "伊朗队队长怒斥国际足联",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%98%9F%E9%98%9F%E9%95%BF%E6%80%92%E6%96%A5%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时10分 ~ 23时11分]"
+        },
+        {
+          "title": "伊朗最后时刻无缘淘汰赛，一图速览世界杯32强",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470690",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时53分 ~ 23时11分]"
         },
         {
           "title": "伊朗队最后时刻出局",
@@ -224,15 +260,15 @@
           "time_info": "[14时53分 ~ 17时53分]"
         },
         {
-          "title": "人民日报：伊朗队昂着头告别世界杯",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E4%BC%8A%E6%9C%97%E9%98%9F%E6%98%82%E7%9D%80%E5%A4%B4%E5%91%8A%E5%88%AB%E4%B8%96%E7%95%8C%E6%9D%AF",
-          "source": "百度热搜",
+          "title": "伊朗将从下周一恢复迪拜航班。（伊朗媒体IRNA）",
+          "url": "https://wallstreetcn.com/livenews/3125691",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时12分"
+          "time_info": "23时11分"
         },
         {
           "title": "消息称4枚飞行物击中伊朗伦格港附近地区",
@@ -244,6 +280,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        },
+        {
+          "title": "人民日报：伊朗队昂着头告别世界杯",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E4%BC%8A%E6%9C%97%E9%98%9F%E6%98%82%E7%9D%80%E5%A4%B4%E5%91%8A%E5%88%AB%E4%B8%96%E7%95%8C%E6%9D%AF",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时12分 ~ 23时11分]"
         },
         {
           "title": "据福克斯新闻：美军对伊朗的新一轮打击规模大于昨晚的行动。美军与巴林部队击落了9架飞向驻巴林美军的伊朗无人机。",
@@ -293,18 +341,6 @@
           "time_info": "[06时53分 ~ 10时13分]"
         },
         {
-          "title": "伊朗队队长怒斥：这届世界杯是场灾难",
-          "url": "https://news.ifeng.com/c/8uKJ5MNERg6",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时52分 ~ 21时12分]"
-        },
-        {
           "title": "美国再对伊朗实施军事打击",
           "url": "https://flash.jin10.com/detail/20260628054140770800",
           "source": "金十数据",
@@ -329,18 +365,6 @@
           "time_info": "[06时53分 ~ 10时13分]"
         },
         {
-          "title": "伊朗最后时刻无缘淘汰赛，一图速览世界杯32强",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470690",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时53分 ~ 21时12分]"
-        },
-        {
           "title": "伊朗革命卫队威胁对美军基地发起“地狱”式打击",
           "url": "https://wallstreetcn.com/livenews/3125622",
           "source": "华尔街见闻-快讯",
@@ -352,6 +376,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时13分 ~ 17时53分]"
+        },
+        {
+          "title": "伊朗称通行霍尔木兹海峡仍需与革命卫队协调",
+          "url": "https://wallstreetcn.com/livenews/3125662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时41分 ~ 23时11分]"
         },
         {
           "title": "伊朗外长阿拉格齐：伊朗对霍尔木兹海峡恢复通行负有全部责任。 外部势力干预霍尔木兹海峡会带来局势升级风险。",
@@ -468,18 +505,6 @@
           "time_info": "[19时41分 ~ 21时12分]"
         },
         {
-          "title": "伊朗称通行霍尔木兹海峡仍需与革命卫队协调",
-          "url": "https://wallstreetcn.com/livenews/3125662",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时41分 ~ 21时12分]"
-        },
-        {
           "title": "美军称打击10个伊朗军事目标",
           "url": "https://wallstreetcn.com/livenews/3125619",
           "source": "华尔街见闻-快讯",
@@ -504,6 +529,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时54分 ~ 19时41分]"
+        },
+        {
+          "title": "伊朗国家电视台称，船只通过霍尔木兹海峡仍需与革命卫队协调。 进入波斯湾的船只最安全的过境航道位于伊朗霍尔木兹岛以南，而驶出波斯湾的船只最安全航道位于伊朗拉拉克岛以南。",
+          "url": "https://wallstreetcn.com/livenews/3125658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时41分 ~ 23时11分]"
         },
         {
           "title": "以色列国防部长卡茨：若伊朗阻挠协议落实，以色列将予以反击。以色列国防军将做好长期驻守黎巴嫩安全区的准备。",
@@ -586,18 +624,6 @@
           "source": "金十数据",
           "ranks": [
             3,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时41分 ~ 21时12分]"
-        },
-        {
-          "title": "伊朗国家电视台称，船只通过霍尔木兹海峡仍需与革命卫队协调。 进入波斯湾的船只最安全的过境航道位于伊朗霍尔木兹岛以南，而驶出波斯湾的船只最安全航道位于伊朗拉拉克岛以南。",
-          "url": "https://wallstreetcn.com/livenews/3125658",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
             17
           ],
           "is_new": false,
@@ -691,6 +717,18 @@
           "time_info": "[19时40分 ~ 21时12分]"
         },
         {
+          "title": "阿根廷奥地利阿尔及利亚三队出线，伊朗被淘汰了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470581",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时12分 ~ 23时11分]"
+        },
+        {
           "title": "黎以美达成三方框架协议，黎真主党解除武装前，以军将驻留黎南部安全区，以方称协议沉重打击伊朗，如何解读？",
           "url": "https://www.zhihu.com/question/2054137178243048136",
           "source": "知乎",
@@ -762,6 +800,17 @@
           "time_info": "[01时55分 ~ 03时03分]"
         },
         {
+          "title": "周末要闻汇总：前5月电子行业利润翻倍；美国再对伊朗实施军事打击",
+          "url": "https://www.cls.cn/detail/2411069",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时10分 ~ 23时11分]"
+        },
+        {
           "title": "美军中央司令部称对伊朗实施新一轮打击",
           "url": "https://wallstreetcn.com/livenews/3125613",
           "source": "华尔街见闻-快讯",
@@ -797,6 +846,30 @@
           "time_info": "[03时03分 ~ 04时49分]"
         },
         {
+          "title": "伊朗外交部长阿拉格齐28日在伊拉克表示，伊美谅解备忘录包括在所有战线停火，尤其是在黎巴嫩，这是美国政府的责任。 他强调，以色列必须停止对黎巴嫩的袭击，并从黎巴嫩被占领土撤军。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3125668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时12分 ~ 23时11分]"
+        },
+        {
+          "title": "伊朗外长：管理和恢复霍尔木兹海峡交通仅由伊朗负责",
+          "url": "https://wallstreetcn.com/livenews/3125667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时12分 ~ 23时11分]"
+        },
+        {
           "title": "美军称再对伊朗实施打击",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E7%A7%B0%E5%86%8D%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%AE%9E%E6%96%BD%E6%89%93%E5%87%BB",
           "source": "百度热搜",
@@ -821,6 +894,17 @@
           "time_info": "[19时41分 ~ 21时12分]"
         },
         {
+          "title": "媒体：伊朗队出局但没输",
+          "url": "https://www.toutiao.com/trending/7656424033067470374/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时10分 ~ 23时11分]"
+        },
+        {
           "title": "韩国跪着死伊朗站着死",
           "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%B7%AA%E7%9D%80%E6%AD%BB%E4%BC%8A%E6%9C%97%E7%AB%99%E7%9D%80%E6%AD%BB%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -832,6 +916,28 @@
           "time_info": "[17时52分 ~ 17时53分]"
         },
         {
+          "title": "伊朗球员道歉 说着说着哭了",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%90%83%E5%91%98%E9%81%93%E6%AD%89+%E8%AF%B4%E7%9D%80%E8%AF%B4%E7%9D%80%E5%93%AD%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时10分 ~ 23时11分]"
+        },
+        {
+          "title": "伊朗队球员哭诉：这届世界杯是场灾难",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%98%9F%E7%90%83%E5%91%98%E5%93%AD%E8%AF%89%EF%BC%9A%E8%BF%99%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E6%98%AF%E5%9C%BA%E7%81%BE%E9%9A%BE",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时10分 ~ 23时11分]"
+        },
+        {
           "title": "巴林内政部：有居民楼因伊朗袭击受损，未造成人员死亡。",
           "url": "https://flash.jin10.com/detail/20260628140858636800",
           "source": "金十数据",
@@ -841,6 +947,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
+        },
+        {
+          "title": "美常驻联合国代表：伊朗要么选择负责任，要么选择毁灭",
+          "url": "https://flash.jin10.com/detail/20260628213229343800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "伊朗革命卫队海军指挥部：美国在中东地区的基地将在未来几天内经历“地狱般的日子”。",
@@ -920,17 +1037,6 @@
           "time_info": "14时54分"
         },
         {
-          "title": "伊朗外交部长阿拉格齐28日在伊拉克表示，伊美谅解备忘录包括在所有战线停火，尤其是在黎巴嫩，这是美国政府的责任。 他强调，以色列必须停止对黎巴嫩的袭击，并从黎巴嫩被占领土撤军。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3125668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
-        },
-        {
           "title": "伊朗伊斯兰革命卫队：任何违反停火的行为都与伊斯兰堡协议相悖，将使所有正在进行的进程完全停止。",
           "url": "https://flash.jin10.com/detail/20260628084117372800",
           "source": "金十数据",
@@ -940,17 +1046,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
-        },
-        {
-          "title": "伊朗外长：管理和恢复霍尔木兹海峡交通仅由伊朗负责",
-          "url": "https://wallstreetcn.com/livenews/3125667",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
         },
         {
           "title": "伊朗伊斯兰革命卫队：美国以革命卫队海军对侵犯船只进行对抗为借口，袭击了五个伊朗沿海哨所。",
@@ -984,17 +1079,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
-        },
-        {
-          "title": "阿根廷奥地利阿尔及利亚三队出线，伊朗被淘汰了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470581",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗伊斯兰革命卫队海军和航空航天部队在科威特和巴林发起联合导弹和无人机行动，以回应美国近期的打击。",
@@ -1198,8 +1282,20 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
+          "url": "https://wallstreetcn.com/articles/3775683",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时13分 ~ 23时11分]"
+        },
         {
           "title": "学特朗普“卖金卡”，阿根廷这次直接卖国籍？",
           "url": "https://news.ifeng.com/c/8uJmUX0Ymhg",
@@ -1224,18 +1320,6 @@
           "time_info": "[00时55分 ~ 10时13分]"
         },
         {
-          "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
-          "url": "https://wallstreetcn.com/articles/3775683",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时13分 ~ 21时12分]"
-        },
-        {
           "title": "欧盟回应特朗普关税威胁：坚决捍卫自身权利",
           "url": "https://wallstreetcn.com/livenews/3125610",
           "source": "华尔街见闻-快讯",
@@ -1249,6 +1333,48 @@
           "time_info": "[00时55分 ~ 14时54分]"
         },
         {
+          "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33467359",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时13分 ~ 23时11分]"
+        },
+        {
+          "title": "美军连续第二天空袭伊朗，特朗普威胁伊朗或将不复存在，局势会再度持续升温吗？美方此轮袭击想达成哪些目标？",
+          "url": "https://www.zhihu.com/question/2054471851032539301",
+          "source": "知乎",
+          "ranks": [
+            13,
+            11,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时53分 ~ 23时11分]"
+        },
+        {
+          "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470245",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时53分 ~ 23时11分]"
+        },
+        {
           "title": "美军再次对伊朗实施打击 特朗普指责伊朗违反停火协议",
           "url": "https://www.cls.cn/detail/2410771",
           "source": "财联社热门",
@@ -1259,20 +1385,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时55分 ~ 07时53分]"
-        },
-        {
-          "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33467359",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时13分 ~ 21时12分]"
         },
         {
           "title": "特朗普孙女发逛白宫vlog美国网友破防",
@@ -1289,31 +1401,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时55分 ~ 07时53分]"
-        },
-        {
-          "title": "美军连续第二天空袭伊朗，特朗普威胁伊朗或将不复存在，局势会再度持续升温吗？美方此轮袭击想达成哪些目标？",
-          "url": "https://www.zhihu.com/question/2054471851032539301",
-          "source": "知乎",
-          "ranks": [
-            13,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时53分 ~ 21时12分]"
-        },
-        {
-          "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470245",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时53分 ~ 21时12分]"
         },
         {
           "title": "黎巴嫩总统府表示，特朗普向黎巴嫩总统奥恩确认，美国将支持黎巴嫩经济和合法安全力量。",
@@ -1353,6 +1440,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时53分 ~ 10时13分]"
+        },
+        {
+          "title": "美国众议院议长约翰逊：将于周一把住房法案提交给美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20260628220938422800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
+        },
+        {
+          "title": "美国众议长约翰逊：下周一将移交住房立法草案给总统特朗普。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3125689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时11分"
         },
         {
           "title": "特朗普提名兰斯·施罗耶出任美移民与海关执法局局长",
@@ -1416,6 +1525,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时52分 ~ 19时41分]"
+        },
+        {
+          "title": "特朗普发扛地球AI照，伊以都不服！",
+          "url": "https://news.ifeng.com/c/8uKW9oaTnDA",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时12分 ~ 23时11分]"
         },
         {
           "title": "扛不住成本，苹果游说特朗普政府",
@@ -1488,15 +1608,15 @@
           "time_info": "[19时41分 ~ 21时12分]"
         },
         {
-          "title": "特朗普发扛地球AI照，伊以都不服！",
-          "url": "https://news.ifeng.com/c/8uKW9oaTnDA",
-          "source": "凤凰网",
+          "title": "特朗普政府质询美国纽约州在农业用地上的光伏项目",
+          "url": "https://wallstreetcn.com/livenews/3125682",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时12分"
+          "time_info": "23时11分"
         },
         {
           "title": "特朗普驳斥哈格曼新书为“假新闻”，重申选举胜利叙事",
@@ -1534,8 +1654,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时55分 ~ 21时12分]"
+          "appearance_count": 19,
+          "time_info": "[00时55分 ~ 23时11分]"
         },
         {
           "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
@@ -1546,8 +1666,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时55分 ~ 21时12分]"
+          "appearance_count": 19,
+          "time_info": "[00时55分 ~ 23时11分]"
         },
         {
           "title": "外媒：苹果寻求获准从长鑫存储购买内存芯片",
@@ -1588,8 +1708,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时55分 ~ 21时12分]"
+          "appearance_count": 19,
+          "time_info": "[00时55分 ~ 23时11分]"
+        },
+        {
+          "title": "下周重磅日程：美国非农、中国PMI、沃什出席欧洲央行论坛，半导体“7月涨价潮”",
+          "url": "https://wallstreetcn.com/articles/3775686",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时40分 ~ 23时11分]"
         },
         {
           "title": "存储芯片大涨 苹果美光打口水战",
@@ -1601,18 +1734,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时55分 ~ 06时53分]"
-        },
-        {
-          "title": "下周重磅日程：美国非农、中国PMI、沃什出席欧洲央行论坛，半导体“7月涨价潮”",
-          "url": "https://wallstreetcn.com/articles/3775686",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时40分 ~ 21时12分]"
         },
         {
           "title": "苹果芯片成本涨45售价狂加250美元",
@@ -1641,6 +1762,18 @@
           "time_info": "[00时55分 ~ 06时53分]"
         },
         {
+          "title": "全球芯片LOF：6月29日开市起停牌 10:30起复牌",
+          "url": "https://flash.jin10.com/detail/20260628200208750800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时12分 ~ 23时11分]"
+        },
+        {
           "title": "存储芯片成本大涨，苹果美光打起“口水战”，到底谁为涨价买单？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33468093",
           "source": "澎湃新闻",
@@ -1651,17 +1784,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时53分 ~ 07时53分]"
-        },
-        {
-          "title": "全球芯片LOF：6月29日开市起停牌 10:30起复牌",
-          "url": "https://flash.jin10.com/detail/20260628200208750800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
         }
       ]
     },
@@ -1697,6 +1819,18 @@
           "time_info": "[00时55分 ~ 07时53分]"
         },
         {
+          "title": "算力告急：谷歌悄然对Meta实施Gemini使用上限",
+          "url": "https://wallstreetcn.com/articles/3775694",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时12分 ~ 23时11分]"
+        },
+        {
           "title": "海外研究员眼中的中国AI：智谱是“中国Palantir”，MiniMax对标Character AI，豆包是“中国ChatGPT”",
           "url": "https://wallstreetcn.com/articles/3775673",
           "source": "华尔街见闻",
@@ -1706,17 +1840,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时53分 ~ 14时54分]"
-        },
-        {
-          "title": "算力告急：谷歌悄然对Meta实施Gemini使用上限",
-          "url": "https://wallstreetcn.com/articles/3775694",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时12分"
         },
         {
           "title": "因算力供不应求，谷歌限制Meta对Gemini AI模型的使用",
@@ -1801,11 +1924,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时40分 ~ 21时12分]"
+          "appearance_count": 5,
+          "time_info": "[19时40分 ~ 23时11分]"
         }
       ]
     },
