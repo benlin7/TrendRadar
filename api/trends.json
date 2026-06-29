@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T16:49:55.534962+08:00",
-  "total_titles_processed": 1002,
+  "generated_at": "2026-06-29T20:57:09.436709+08:00",
+  "total_titles_processed": 1220,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 35,
+      "match_count": 40,
       "titles": [
         {
           "title": "伊朗锡里克地区传出爆炸声 美军称再对伊实施打击",
@@ -73,11 +73,12 @@
             14,
             15,
             17,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时58分 ~ 16时49分]"
+          "appearance_count": 15,
+          "time_info": "[00时58分 ~ 20时57分]"
         },
         {
           "title": "伊朗队队长怒斥：这届世界杯是场灾难",
@@ -130,13 +131,24 @@
           "time_info": "[00时58分 ~ 05时53分]"
         },
         {
+          "title": "伊朗副外长：本周在多哈进行伊美技术性谈判不属实",
+          "url": "https://news.ifeng.com/c/8uM7iWAJLGu",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 20时57分]"
+        },
+        {
           "title": "伊朗总统：60亿美元伊朗资产将获解冻",
           "url": "https://wallstreetcn.com/livenews/3125993",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -356,13 +368,24 @@
           "time_info": "[00时58分 ~ 02时02分]"
         },
         {
+          "title": "美伊谈判持续之际，伊朗恢复飞往迪拜的商业航班",
+          "url": "https://flash.jin10.com/detail/20260629202350824800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "伊朗公布向美军发射导弹视频",
           "url": "https://news.ifeng.com/c/8uLjWOc0XmD",
           "source": "凤凰网",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -398,6 +421,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：伊朗最好与美国达成一项良好的协议。",
+          "url": "https://flash.jin10.com/detail/20260629200751469800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "据Politico：美国参议员斯科特和哈格蒂提出一项法案，旨在保障人工智能供应链安全。该法案将允许美国阻止人工智能技术流向古巴和伊朗。",
+          "url": "https://flash.jin10.com/detail/20260629200647929800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "【伊朗军方仅允许船只经拉腊克岛以南航道通过霍尔木兹海峡】当地时间29日下午，伊朗军方通告称，所有通过霍尔木兹海峡的船只仅被允许从拉腊克岛以南航道通行。此前，伊朗方面曾在28日发布消息称，船只通过霍尔木兹海峡仍需与革命卫队协调，进入波斯湾的船只最安全的航线位于霍尔木兹岛以南，而驶离波斯湾的船只则应选择拉腊克岛以南航道通行。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3126137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "美常驻联合国代表：伊朗要么选择负责任，要么选择毁灭",
@@ -436,7 +492,7 @@
     },
     {
       "keyword_group": "半导体 CPO 存储芯片 芯片 内存",
-      "match_count": 18,
+      "match_count": 26,
       "titles": [
         {
           "title": "又一半导体气体或陷入短缺 存储巨头全力加紧采购",
@@ -498,13 +554,50 @@
           "time_info": "[11时37分 ~ 16时49分]"
         },
         {
+          "title": "苹果想从长鑫买内存？郭明錤：真正原因是“明年存储缺口将持续扩大”",
+          "url": "https://wallstreetcn.com/articles/3775711",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时37分 ~ 20时57分]"
+        },
+        {
+          "title": "韩国史上最大规模产业投资计划！五年内DRAM产能翻倍，三星、SK海力士各新建两座芯片厂",
+          "url": "https://wallstreetcn.com/articles/3775739",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时49分 ~ 20时57分]"
+        },
+        {
+          "title": "存储巨头开启大规模扩产 半导体设备将进入卖方市场？",
+          "url": "https://www.cls.cn/detail/2411668",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时49分 ~ 20时57分]"
+        },
+        {
           "title": "韩国开启新一轮产业豪赌：三星、SK海力士将投入4755万亿韩元押注AI与芯片",
           "url": "https://flash.jin10.com/detail/20260629163442428800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -527,21 +620,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
         {
-          "title": "苹果想从长鑫买内存？郭明錤：真正原因是“明年存储缺口将持续扩大”",
-          "url": "https://wallstreetcn.com/articles/3775711",
-          "source": "华尔街见闻",
+          "title": "海川智能：拟通过股权受让形式以人民币1.3亿元购买南京集溢半导体科技有限公司15.30%的股权。标的公司主要产品为砷化镓（GaAs）晶片、原材料4N金属镓（N代表纯度），该两类产品2025年收入占比分别约为84.77%、15.02%。",
+          "url": "https://wallstreetcn.com/livenews/3126171",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            8
+            5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时37分 ~ 16时49分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "半导体零部件头部企业、‌半导体材料‌概念股明日申购",
@@ -553,6 +645,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时37分 ~ 11时38分]"
+        },
+        {
+          "title": "沪指涨超1%，科创50暴涨超4%再创新高，半导体、创新药大爆发，恒科指大涨超3%，科网股集体反攻",
+          "url": "https://wallstreetcn.com/articles/3775723",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 20时57分]"
         },
         {
           "title": "据The Information：百度芯片部门昆仑芯计划以500亿美元的估值赴港上市，IPO投资者必须承诺购买相当于其认购额3至7倍的芯片。",
@@ -567,26 +670,26 @@
           "time_info": "[03时22分 ~ 04时52分]"
         },
         {
-          "title": "韩国史上最大规模产业投资计划！五年内DRAM产能翻倍，三星、SK海力士各新建两座芯片厂",
-          "url": "https://wallstreetcn.com/articles/3775739",
+          "title": "高盛交易员预警：存储芯片板块面临三大下行风险",
+          "url": "https://wallstreetcn.com/articles/3775760",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 20时57分]"
         },
         {
-          "title": "存储巨头开启大规模扩产 半导体设备将进入卖方市场？",
-          "url": "https://www.cls.cn/detail/2411668",
+          "title": "【每日收评】科创50放量涨超4.5%，芯片产业链持续爆发，创新药概念股异军突起",
+          "url": "https://www.cls.cn/detail/2411791",
           "source": "财联社热门",
           "ranks": [
-            8
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 20时57分]"
         },
         {
           "title": "存储之后的产业新增长引擎 功率半导体再掀起一轮涨价潮",
@@ -595,9 +698,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
+        },
+        {
+          "title": "报道：比亚迪自研智驾芯片预计2027年首搭量产车型",
+          "url": "https://wallstreetcn.com/livenews/3126149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "功率半导体缺货涨价",
@@ -611,15 +725,37 @@
           "time_info": "07时59分"
         },
         {
+          "title": "【风华高科：公司为“国内唯一通过英伟达全系列MLCC认证的企业”的信息不属实】风华高科股票交易严重异常波动的公告，公司关注到近期有媒体提及公司“针对代理商0402、0603芯片电阻、MLCC全线暂停接单”，经核查，以上信息不属实，为做好部分数字系统升级及产品结构调整，公司执行部分产品暂缓接单，随后已恢复接单。公司关注到近期有媒体提及公司为“国内唯一通过英伟达全系列MLCC认证的企业”，经核查，以上信息不属实，截至公告日，英伟达未对公司开展任何产品认证。",
+          "url": "https://wallstreetcn.com/livenews/3126148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "韩国青瓦台：三星、SK海力士的海外投资计划没有变化。 国内新的芯片集群的核电站可能提前建设。 目标在韩国总统李在明任内完成西南地区芯片集群建设。",
           "url": "https://wallstreetcn.com/livenews/3125966",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
+        },
+        {
+          "title": "西班牙：向欧洲芯片设计公司OpenChip投资1.15亿欧元。",
+          "url": "https://wallstreetcn.com/livenews/3126144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         },
         {
           "title": "创业板指跌幅扩大至2%，深证成指现跌1.71%，沪指现跌0.46%，PCB、CPO等概念跌幅居前。",
@@ -642,12 +778,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时38分"
+        },
+        {
+          "title": "首次！全球最火存储ETF，纳入中国芯片龙头兆易创新",
+          "url": "https://wallstreetcn.com/livenews/3126133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
@@ -761,6 +908,17 @@
           "time_info": "[00时58分 ~ 05时53分]"
         },
         {
+          "title": "特朗普新关税阴霾笼罩！全球零售商抢先囤货 中美航线运费飙涨六成",
+          "url": "https://www.cls.cn/detail/2411631",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 20时57分]"
+        },
+        {
           "title": "美国总统特朗普：我们决心在华盛顿建设世界上最伟大的高尔夫球场之一，并向公众开放。",
           "url": "https://flash.jin10.com/detail/20260629024615359800",
           "source": "金十数据",
@@ -785,6 +943,39 @@
           "time_info": "[03时22分 ~ 04时52分]"
         },
         {
+          "title": "白宫新闻秘书莱维特：美国总统特使威特科夫和特朗普女婿库什纳将出席伊朗会议。",
+          "url": "https://wallstreetcn.com/livenews/3126159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：美国总统特朗普保留必要时使用军事力量的权利。",
+          "url": "https://flash.jin10.com/detail/20260629200925023800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：美国总统特朗普希望和平进程能够顺利进行。",
+          "url": "https://flash.jin10.com/detail/20260629200829801800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "美国众议院议长约翰逊：将于周一把住房法案提交给美国总统特朗普。",
           "url": "https://flash.jin10.com/detail/20260628220938422800",
           "source": "金十数据",
@@ -794,12 +985,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：美国总统特使威特科夫和特朗普女婿库什纳将出席伊朗会议。",
+          "url": "https://flash.jin10.com/detail/20260629200717302800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "特朗普坚称美伊会谈“将于明日在多哈举行”",
+          "url": "https://wallstreetcn.com/livenews/3126139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗已请求召开会议。会议将于明天在多哈举行。",
+          "url": "https://wallstreetcn.com/livenews/3126135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股近一个月触发7次，“兴登堡预兆”有多准？A股准确率高达92%！",
@@ -814,13 +1038,24 @@
           "time_info": "[00时58分 ~ 16时49分]"
         },
         {
+          "title": "韩国重磅芯片计划支撑市场，美股盘前存储芯片股反弹，美光涨超2%，油价一度回到70上方",
+          "url": "https://wallstreetcn.com/articles/3775727",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 20时57分]"
+        },
+        {
           "title": "美股三大股指期货持续上涨，道琼斯指数期货涨0.41%，标普500指数期货涨0.71%，纳斯达克100指数期货涨1.08%。",
           "url": "https://wallstreetcn.com/livenews/3125981",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -831,7 +1066,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         },
@@ -864,7 +1099,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时49分"
         }
@@ -872,7 +1107,7 @@
     },
     {
       "keyword_group": "anthropic claude gemini chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "算力告急：谷歌悄然对Meta实施Gemini使用上限",
@@ -885,6 +1120,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时58分 ~ 11时38分]"
+        },
+        {
+          "title": "据Politico：美国加利福尼亚州将以优惠价格扩大Claude人工智能模型的使用。",
+          "url": "https://flash.jin10.com/detail/20260629200412428800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         }
       ]
     }
