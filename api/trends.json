@@ -1,15 +1,11 @@
 {
-  "generated_at": "2026-07-02T17:57:53.212683+08:00",
-  "total_titles_processed": 1134,
-  "failed_sources": [
-    "cls-hot",
-    "ifeng",
-    "jin10"
-  ],
+  "generated_at": "2026-07-02T20:02:57.408278+08:00",
+  "total_titles_processed": 1295,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "半导体 CPO 存储芯片 芯片 内存",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "韩国半导体基板厂商：三星、SK海力士拟要求下半年降价，年初3%~4%涨幅或将撤回",
@@ -35,6 +31,19 @@
           "time_info": "[01时06分 ~ 10时05分]"
         },
         {
+          "title": "芯片股“最大利空”终于来了？Meta会是“第一个缩减资本开支的大厂”吗？",
+          "url": "https://wallstreetcn.com/articles/3776018",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时04分 ~ 20时02分]"
+        },
+        {
           "title": "【早报】美联储放鹰；存储、半导体板块大跌，中概股逆势大涨；油价下跌，黄金收涨；英格兰、比利时晋级世界杯16强",
           "url": "https://www.cls.cn/detail/2414804",
           "source": "财联社热门",
@@ -46,27 +55,16 @@
           "time_info": "[10时04分 ~ 14时29分]"
         },
         {
-          "title": "芯片股“最大利空”终于来了？Meta会是“第一个缩减资本开支的大厂”吗？",
-          "url": "https://wallstreetcn.com/articles/3776018",
-          "source": "华尔街见闻",
+          "title": "五千亿级投资来袭！韩国两大芯片巨头建厂计划官宣",
+          "url": "https://www.cls.cn/detail/2415140",
+          "source": "财联社热门",
           "ranks": [
-            8,
+            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时04分 ~ 17时57分]"
-        },
-        {
-          "title": "半导体",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%8A%E5%AF%BC%E4%BD%93&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时53分 ~ 17时57分]"
+          "time_info": "[17时53分 ~ 20时02分]"
         },
         {
           "title": "连接英伟达芯片 一核能公司在美国首次实现先进反应堆发电",
@@ -94,15 +92,15 @@
           "time_info": "[01时06分 ~ 07时02分]"
         },
         {
-          "title": "五千亿级投资来袭！韩国两大芯片巨头建厂计划官宣",
-          "url": "https://www.cls.cn/detail/2415140",
-          "source": "财联社热门",
+          "title": "摩根大通：芯片股的极端跑赢表现难以持续",
+          "url": "https://wallstreetcn.com/livenews/3128012",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时53分"
+          "time_info": "20时02分"
         },
         {
           "title": "半导体硅片龙头，股价巨震",
@@ -113,8 +111,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 17时53分]"
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 20时02分]"
+        },
+        {
+          "title": "半导体",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%8A%E5%AF%BC%E4%BD%93&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时53分 ~ 20时02分]"
         },
         {
           "title": "韩国投资者加仓中国资产！上半年扫货科技ETF，半导体赛道获重点配置",
@@ -136,30 +146,44 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时53分 ~ 17时57分]"
+          "appearance_count": 3,
+          "time_info": "[17时53分 ~ 20时02分]"
         },
         {
           "title": "创业板大跌近6%，科创50创年内最大单日跌幅，CPO领跌、存储芯片“一哥”跌停，贵金属逆势拉升",
           "url": "https://wallstreetcn.com/articles/3776030",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时53分 ~ 17时57分]"
+          "appearance_count": 3,
+          "time_info": "[17时53分 ~ 20时02分]"
         },
         {
           "title": "半导体开启年内第二轮涨价",
           "url": "https://www.douyin.com/hot/2555058",
           "source": "抖音",
           "ranks": [
-            11
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时53分 ~ 20时02分]"
+        },
+        {
+          "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
+          "url": "https://www.cls.cn/detail/2415416",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时53分 ~ 17时57分]"
+          "time_info": "[17时53分 ~ 20时02分]"
         },
         {
           "title": "创业板指跌超4%，科创50指数跌超5%，沪指跌1.58%，深成指跌3.23%，算力硬件、半导体芯片等方向跌幅居前，沪深京三市下跌个股近2400只，其中近百股跌超9%。",
@@ -171,17 +195,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
-        },
-        {
-          "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
-          "url": "https://www.cls.cn/detail/2415416",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时53分"
         },
         {
           "title": "成本上涨与市场需求双轮驱动，半导体开启年内第二轮涨价",
@@ -272,6 +285,17 @@
           "time_info": "10时05分"
         },
         {
+          "title": "好多人为啥根本意识不到，就算 AI 崩盘，消费级 DDR 内存也不会暴跌至远低于 2024 年的低位价格？",
+          "url": "https://www.zhihu.com/question/2052018919150450628",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "费城半导体指数扩大跌幅至5.87%，泛林集团(LRCX.O)跌11.24%，应用材料(AMAT.O)跌11.24%，美光科技(MU.O)跌9.42%，英特尔(INTC.O)跌8.11%，阿斯麦(ASML.O)跌7.51%。",
           "url": "https://flash.jin10.com/detail/20260702022742162800",
           "source": "金十数据",
@@ -322,9 +346,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
+        },
+        {
+          "title": "北京君正：由于公司存储芯片持续在涨价 预计各季度毛利率会环比有所增长",
+          "url": "https://wallstreetcn.com/livenews/3127978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "据华尔街日报：消息人士透露，该原型机将运行在集成SpaceX(SPCX.O)旗下xAI人工智能技术的专有操作系统上。该原型机设计时尚，比iPhone更纤薄。该设备将采用高通(QCOM.O)骁龙芯片组。",
@@ -355,7 +390,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         },
@@ -374,7 +409,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "美国贸易代表：特朗普的贸易政策已经取代了《美墨加协定》的许多内容。",
@@ -556,6 +591,17 @@
           "time_info": "01时06分"
         },
         {
+          "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501745",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "美国总统特朗普：美光科技(MU.O)对“特朗普账户”的2.5亿美元投资是“同类投资中规模最大的企业投资”。",
           "url": "https://flash.jin10.com/detail/20260702002924479800",
           "source": "金十数据",
@@ -661,7 +707,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         }
@@ -669,7 +715,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "据AXIOS网站：美国在多哈谈判中试图劝说伊朗放弃霍尔木兹海峡“通行收费”机制。",
@@ -707,6 +753,18 @@
           "time_info": "[05时17分 ~ 07时02分]"
         },
         {
+          "title": "何维将出席伊朗已故最高领袖葬礼",
+          "url": "https://www.douyin.com/hot/2555610",
+          "source": "抖音",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时53分 ~ 20时02分]"
+        },
+        {
           "title": "伊朗队回国，接机现场人山人海，仪仗队奏响国歌迎接",
           "url": "https://news.ifeng.com/c/8uQaMfSWpO8",
           "source": "凤凰网",
@@ -718,15 +776,15 @@
           "time_info": "[14时29分 ~ 17时53分]"
         },
         {
-          "title": "何维将出席伊朗已故最高领袖葬礼",
-          "url": "https://www.douyin.com/hot/2555610",
-          "source": "抖音",
+          "title": "伊朗国家队回国向民众道歉",
+          "url": "https://www.toutiao.com/trending/7657124026443402793/",
+          "source": "今日头条",
           "ranks": [
-            12
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时53分 ~ 17时57分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "美国：超1000万桶原油经霍尔木兹海峡运出，伊朗石油筹码被削弱",
@@ -878,9 +936,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
+        },
+        {
+          "title": "伊朗武装部队：美干涉霍尔木兹海峡将遭回击",
+          "url": "https://wallstreetcn.com/livenews/3127982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "伊朗副外长表示，伊朗代表团在多哈的会谈已结束。（伊朗伊斯兰共和国通讯社IRNA）",
@@ -968,6 +1037,19 @@
           "time_info": "[07时01分 ~ 14时29分]"
         },
         {
+          "title": "Meta 拟对外出售剩余 AI 算力，引发美股芯片及光通信重挫，对此你怎么看，会是 AI 退潮信号么？",
+          "url": "https://www.zhihu.com/question/2055934590297150773",
+          "source": "知乎",
+          "ranks": [
+            13,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时29分 ~ 20时02分]"
+        },
+        {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -991,18 +1073,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
-        },
-        {
-          "title": "Meta 拟对外出售剩余 AI 算力，引发美股芯片及光通信重挫，对此你怎么看，会是 AI 退潮信号么？",
-          "url": "https://www.zhihu.com/question/2055934590297150773",
-          "source": "知乎",
-          "ranks": [
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时29分 ~ 17时57分]"
         },
         {
           "title": "美股低开 算力租赁商、存储股大跌",
@@ -1112,7 +1182,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
         }
