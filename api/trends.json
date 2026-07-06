@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T14:38:12.027514+08:00",
-  "total_titles_processed": 973,
+  "generated_at": "2026-07-06T19:22:48.743933+08:00",
+  "total_titles_processed": 1197,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
@@ -62,11 +62,12 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时02分 ~ 14时38分]"
+          "appearance_count": 4,
+          "time_info": "[10时02分 ~ 19时22分]"
         },
         {
           "title": "伊朗民众葬礼上向特朗普发出威胁：无耻混蛋，等着被割喉吧",
@@ -381,12 +382,266 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "SpaceX总裁Shotwell将向特朗普账户捐赠SpaceX股票",
+          "url": "https://wallstreetcn.com/livenews/3129320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "半导体 CPO 存储芯片 芯片 内存",
+      "match_count": 21,
+      "titles": [
+        {
+          "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
+          "url": "https://wallstreetcn.com/articles/3776219",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时01分 ~ 14时38分]"
+        },
+        {
+          "title": "PC及内存硬盘价格持续高位：硬盘一天三个价，经销商喊出“非刚需别买”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33517465",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 07时56分]"
+        },
+        {
+          "title": "韩国政府：拟使用半导体税收红利设立“未来应对基金”，规模最高100万亿韩元",
+          "url": "https://wallstreetcn.com/articles/3776221",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时01分 ~ 14时38分]"
+        },
+        {
+          "title": "如何看待极客湾麒麟 9030 芯片性能详细解析（Mate 80 Pro）视频上线？",
+          "url": "https://www.zhihu.com/question/2056487235072029858",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时01分 ~ 04时12分]"
+        },
+        {
+          "title": "PC及内存硬盘价格持续高位：硬盘一天三个价，经销商喊出“非刚需别买”",
+          "url": "https://wallstreetcn.com/articles/3776206",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 07时56分]"
+        },
+        {
+          "title": "两大利空实为误读？野村：市场对存储芯片需求降温的恐慌明显过度",
+          "url": "https://www.cls.cn/detail/2417818",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
+          "title": "华为Mate90系列或将秋季登场，这次芯片将用上“韬定律”",
+          "url": "https://www.cls.cn/detail/2417798",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
+          "title": "韩国总统幕僚长：政府寻求利用半导体繁荣带来的税收盈余设立“未来应对基金”。基金应投资于未来的增长动力，解决K型两极分化问题。",
+          "url": "https://wallstreetcn.com/livenews/3128986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 05时50分]"
+        },
+        {
+          "title": "韩国拟设“未来应对基金”，以半导体税收支持未来增长",
+          "url": "https://wallstreetcn.com/livenews/3129027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时50分 ~ 07时56分]"
+        },
+        {
+          "title": "A股集体高开 存储芯片等走强",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E7%AD%89%E8%B5%B0%E5%BC%BA",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "华为韬定律芯片实测",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E9%9F%AC%E5%AE%9A%E5%BE%8B%E8%8A%AF%E7%89%87%E5%AE%9E%E6%B5%8B&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 14时38分]"
+        },
+        {
+          "title": "创业板跌近2%，科创50巨震后收涨1%，PCB、CPO齐跌，创新药逆势再爆发，恒指涨超1%三连涨",
+          "url": "https://wallstreetcn.com/articles/3776252",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
+          "title": "A股存储芯片板块集体高开，江波龙涨超10%，中电港、华大九天、深圳华强、佰维存储、朗科科技等纷纷高开，消息上，江波龙预计上半年净利润92亿元-110亿元，同比增长62204%-74394%。",
+          "url": "https://wallstreetcn.com/livenews/3129078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "【焦点复盘】科创50“深V”回升结束3连跌，新版“韬定律”提振芯片产业链，机器人概念遭深幅回调",
+          "url": "https://www.cls.cn/detail/2418140",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
+          "title": "韩国总统李在明：必须加快半导体集群的行政审批流程。 必须为半导体集群提前确保电力和水资源供应。 必须就大型项目的选址展开讨论。 将于8月成立委员会以提升半导体竞争力。",
+          "url": "https://wallstreetcn.com/livenews/3129070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "模拟芯片大厂亚德诺发通知信：部分产品交期拉长 提醒客户提前半年下单",
+          "url": "https://wallstreetcn.com/livenews/3129178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
+          "title": "韩国：西南部计划新建芯片集群的选址已确定。 将加快龙仁市芯片工厂项目的推进。",
+          "url": "https://wallstreetcn.com/livenews/3129171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
+          "title": "曝华为Mate90正在芯片装测",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%8D%8E%E4%B8%BAMate90%E6%AD%A3%E5%9C%A8%E8%8A%AF%E7%89%87%E8%A3%85%E6%B5%8B%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
+          "title": "290亿美元！SK海力士赴美上市，AI芯片战火烧到纳斯达克",
+          "url": "https://flash.jin10.com/detail/20260706140815215800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
+          "title": "摩根士丹利：预计资金将从芯片股向超大规模云服务商轮动",
+          "url": "https://wallstreetcn.com/livenews/3129314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
+          "title": "沪电股份：43亿元人工智能芯片配套高端印制电路板扩产项目预期下半年试产并逐步提升产能",
+          "url": "https://wallstreetcn.com/livenews/3129307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "伊拉克女信众：哈梅内伊不仅属于伊朗，是所有人的领袖",
@@ -432,11 +687,23 @@
           "source": "凤凰网",
           "ranks": [
             6,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时02分 ~ 14时38分]"
+          "appearance_count": 4,
+          "time_info": "[10时02分 ~ 19时22分]"
+        },
+        {
+          "title": "伊朗借哈梅内伊国葬释放3个政治讯息",
+          "url": "https://news.ifeng.com/c/8uXROeZKlPw",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：自己首先是一名战士，其次才是外交官，德黑兰必须在保持“战备状态”的前提下开展谈判。",
@@ -560,172 +827,6 @@
       ]
     },
     {
-      "keyword_group": "半导体 CPO 存储芯片 芯片 内存",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "HBM之父金正浩：AI的本质是内存，GPU真正工作的时间只有10%",
-          "url": "https://wallstreetcn.com/articles/3776219",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 14时38分]"
-        },
-        {
-          "title": "PC及内存硬盘价格持续高位：硬盘一天三个价，经销商喊出“非刚需别买”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33517465",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 07时56分]"
-        },
-        {
-          "title": "韩国政府：拟使用半导体税收红利设立“未来应对基金”，规模最高100万亿韩元",
-          "url": "https://wallstreetcn.com/articles/3776221",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时01分 ~ 14时38分]"
-        },
-        {
-          "title": "如何看待极客湾麒麟 9030 芯片性能详细解析（Mate 80 Pro）视频上线？",
-          "url": "https://www.zhihu.com/question/2056487235072029858",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时01分 ~ 04时12分]"
-        },
-        {
-          "title": "PC及内存硬盘价格持续高位：硬盘一天三个价，经销商喊出“非刚需别买”",
-          "url": "https://wallstreetcn.com/articles/3776206",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 07时56分]"
-        },
-        {
-          "title": "韩国总统幕僚长：政府寻求利用半导体繁荣带来的税收盈余设立“未来应对基金”。基金应投资于未来的增长动力，解决K型两极分化问题。",
-          "url": "https://wallstreetcn.com/livenews/3128986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时02分 ~ 05时50分]"
-        },
-        {
-          "title": "韩国拟设“未来应对基金”，以半导体税收支持未来增长",
-          "url": "https://wallstreetcn.com/livenews/3129027",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时50分 ~ 07时56分]"
-        },
-        {
-          "title": "A股集体高开 存储芯片等走强",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E7%AD%89%E8%B5%B0%E5%BC%BA",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 10时02分]"
-        },
-        {
-          "title": "华为韬定律芯片实测",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E9%9F%AC%E5%AE%9A%E5%BE%8B%E8%8A%AF%E7%89%87%E5%AE%9E%E6%B5%8B&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时37分 ~ 14时38分]"
-        },
-        {
-          "title": "A股存储芯片板块集体高开，江波龙涨超10%，中电港、华大九天、深圳华强、佰维存储、朗科科技等纷纷高开，消息上，江波龙预计上半年净利润92亿元-110亿元，同比增长62204%-74394%。",
-          "url": "https://wallstreetcn.com/livenews/3129078",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "韩国总统李在明：必须加快半导体集群的行政审批流程。 必须为半导体集群提前确保电力和水资源供应。 必须就大型项目的选址展开讨论。 将于8月成立委员会以提升半导体竞争力。",
-          "url": "https://wallstreetcn.com/livenews/3129070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时02分"
-        },
-        {
-          "title": "模拟芯片大厂亚德诺发通知信：部分产品交期拉长 提醒客户提前半年下单",
-          "url": "https://wallstreetcn.com/livenews/3129178",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
-          "title": "韩国：西南部计划新建芯片集群的选址已确定。 将加快龙仁市芯片工厂项目的推进。",
-          "url": "https://wallstreetcn.com/livenews/3129171",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
-          "title": "290亿美元！SK海力士赴美上市，AI芯片战火烧到纳斯达克",
-          "url": "https://flash.jin10.com/detail/20260706140815215800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 7,
       "titles": [
@@ -754,6 +855,18 @@
           "time_info": "[00时01分 ~ 07时56分]"
         },
         {
+          "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
+          "url": "https://wallstreetcn.com/articles/3776130",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时37分 ~ 19时22分]"
+        },
+        {
           "title": "本周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
           "url": "https://wallstreetcn.com/articles/3776130",
           "source": "华尔街见闻",
@@ -765,15 +878,16 @@
           "time_info": "[10时01分 ~ 10时02分]"
         },
         {
-          "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
-          "url": "https://wallstreetcn.com/articles/3776130",
+          "title": "美股史上最大规模海外公司首次募资！“存储巨头”SK海力士本周五登陆纳斯达克",
+          "url": "https://wallstreetcn.com/articles/3776235",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时37分 ~ 14时38分]"
+          "appearance_count": 3,
+          "time_info": "[14时37分 ~ 19时22分]"
         },
         {
           "title": "本周重要事件与数据预告：美联储会议纪要；中国CPI、外储；SK海力士登陆美股",
@@ -785,17 +899,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
-        },
-        {
-          "title": "美股史上最大规模海外公司首次募资！“存储巨头”SK海力士本周五登陆纳斯达克",
-          "url": "https://wallstreetcn.com/articles/3776235",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时37分 ~ 14时38分]"
         },
         {
           "title": "环球下周看点：美联储会议纪要来袭 美股二季报大幕开启",
