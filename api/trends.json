@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T18:18:41.264601+08:00",
-  "total_titles_processed": 1196,
+  "generated_at": "2026-07-07T21:11:46.985071+08:00",
+  "total_titles_processed": 1367,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 45,
       "titles": [
         {
           "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时58分 ~ 18时18分]"
+          "appearance_count": 7,
+          "time_info": "[07时58分 ~ 21时11分]"
         },
         {
           "title": "“前线非常可怕”，特朗普称解决俄乌冲突将比人们认为的要快得多",
@@ -43,6 +43,18 @@
           "time_info": "[06时57分 ~ 07时59分]"
         },
         {
+          "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33532495",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时36分 ~ 21时11分]"
+        },
+        {
           "title": "SpaceX总裁将向“特朗普账户”捐赠股票",
           "url": "https://wallstreetcn.com/livenews/3129611",
           "source": "华尔街见闻-快讯",
@@ -52,6 +64,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时59分"
+        },
+        {
+          "title": "特朗普：与普京总统进行了非常好的谈话。",
+          "url": "https://wallstreetcn.com/livenews/3130016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         },
         {
           "title": "特朗普一通电话后，国际足联“破例”了",
@@ -87,16 +110,15 @@
           "time_info": "01时34分"
         },
         {
-          "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33532495",
-          "source": "澎湃新闻",
+          "title": "特朗普：土耳其从美国购买了飞机。 土耳其曾协助试图结束我们与伊朗的战争。",
+          "url": "https://wallstreetcn.com/livenews/3130013",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            3
+            4
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时36分 ~ 18时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         },
         {
           "title": "特朗普再回应红牌事件，称若比利时赢了美国就是有黑幕",
@@ -108,6 +130,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时41分"
+        },
+        {
+          "title": "特朗普称赞美国经济。",
+          "url": "https://wallstreetcn.com/livenews/3130012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         },
         {
           "title": "特朗普：就红牌与国际足联主席通话",
@@ -217,6 +250,18 @@
           "time_info": "[06时57分 ~ 07时59分]"
         },
         {
+          "title": "特朗普承认了：我找了国际足联，美国球员吃红牌的动作不算犯规",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531585",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 21时11分]"
+        },
+        {
           "title": "美国总统特朗普：我们很尊重澳大利亚。 赞赏澳洲的退休（金）系统。",
           "url": "https://wallstreetcn.com/livenews/3129494",
           "source": "华尔街见闻-快讯",
@@ -240,6 +285,18 @@
           "time_info": "[14时36分 ~ 14时37分]"
         },
         {
+          "title": "卢卡库跳“特朗普之舞”贴脸嘲讽",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%A2%E5%8D%A1%E5%BA%93%E8%B7%B3%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E4%B9%8B%E8%88%9E%E2%80%9D%E8%B4%B4%E8%84%B8%E5%98%B2%E8%AE%BD",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 21时11分]"
+        },
+        {
           "title": "特朗普称不知道红牌还要禁赛",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%BA%A2%E7%89%8C%E8%BF%98%E8%A6%81%E7%A6%81%E8%B5%9B",
           "source": "bilibili 热搜",
@@ -251,6 +308,17 @@
           "time_info": "[14时36分 ~ 14时37分]"
         },
         {
+          "title": "特朗普：今天将和土耳其谈贸易、军事事宜。 土耳其比其他国家更忠诚。 （谈F-35和土耳其）将就此作出决定。 我们已对北约进行了投资，盟友应该愿意提供帮助。 我们对伊朗采取行动的时候，我是在考验盟友。 法国、德国和其他国家当时都拒绝了我们。 对与土耳其的关系没有任何担忧。 美国-土耳其关系可能比以往任何时候都好。",
+          "url": "https://wallstreetcn.com/livenews/3130010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
           "title": "美国总统特朗普：沃尔玛将降低价格。",
           "url": "https://flash.jin10.com/detail/20260707044646086800",
           "source": "金十数据",
@@ -260,6 +328,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "特朗普称赞土耳其总统埃尔多安。",
+          "url": "https://wallstreetcn.com/livenews/3130007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
+          "title": "特朗普一通电话毁了美国队",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%80%E9%80%9A%E7%94%B5%E8%AF%9D%E6%AF%81%E4%BA%86%E7%BE%8E%E5%9B%BD%E9%98%9F&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         },
         {
           "title": "据韩联社：特朗普重申，关税政策已促使韩国、日本等国汽车制造商赴美建厂。",
@@ -317,35 +407,13 @@
           "time_info": "10时41分"
         },
         {
-          "title": "卢卡库跳“特朗普之舞”贴脸嘲讽",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%A2%E5%8D%A1%E5%BA%93%E8%B7%B3%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E4%B9%8B%E8%88%9E%E2%80%9D%E8%B4%B4%E8%84%B8%E5%98%B2%E8%AE%BD",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "特朗普承认了：我找了国际足联，美国球员吃红牌的动作不算犯规",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33531585",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-07）",
           "url": "https://flash.jin10.com/detail/20260707180658184800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -359,6 +427,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时57分"
+        },
+        {
+          "title": "美国总统特朗普：丰田正在从墨西哥迁往美国德克萨斯州。",
+          "url": "https://wallstreetcn.com/livenews/3129994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         },
         {
           "title": "古巴前领导人孙子：愿同特朗普谈判",
@@ -389,7 +468,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -440,8 +519,234 @@
       ]
     },
     {
+      "keyword_group": "半导体 CPO 存储芯片 芯片 内存",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "【早报】道指创新高，存储、半导体板块爆发；黄金、白银大涨，油价下跌；C罗告别世界杯",
+          "url": "https://www.cls.cn/detail/2418591",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时58分 ~ 14时37分]"
+        },
+        {
+          "title": "创业板跌近2%，科创50巨震后收涨1%，PCB、CPO齐跌，创新药逆势再爆发，恒指涨超1%三连涨",
+          "url": "https://wallstreetcn.com/articles/3776252",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时34分 ~ 14时37分]"
+        },
+        {
+          "title": "【焦点复盘】科创50“深V”回升结束3连跌，新版“韬定律”提振芯片产业链，机器人概念遭深幅回调",
+          "url": "https://www.cls.cn/detail/2418140",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时34分 ~ 07时59分]"
+        },
+        {
+          "title": "存储芯片涨价潮持续！三星Q2营业利润飙升18倍 再创历史新高",
+          "url": "https://www.cls.cn/detail/2418641",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时41分 ~ 14时37分]"
+        },
+        {
+          "title": "大摩告诉客户：是时候“卖芯片、买云”，“存储”类似“白银”见顶",
+          "url": "https://wallstreetcn.com/articles/3776333",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时41分 ~ 21时11分]"
+        },
+        {
+          "title": "亚洲跌完欧洲跌！芯片股抛售潮席卷全球 华尔街分析师热议",
+          "url": "https://www.cls.cn/detail/2419287",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
+          "title": "两大利空实为误读？野村：市场对存储芯片需求降温的恐慌明显过度",
+          "url": "https://www.cls.cn/detail/2417818",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时34分"
+        },
+        {
+          "title": "韩股崩跌熔断拖累全球市场！三星跌10%、美光盘前跌超6％，欧洲半导体股普跌，日元162水平徘徊",
+          "url": "https://wallstreetcn.com/articles/3776355",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 21时11分]"
+        },
+        {
+          "title": "内存价格一路上涨，硬盘价格水涨船高",
+          "url": "https://wallstreetcn.com/livenews/3129588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时57分 ~ 07时59分]"
+        },
+        {
+          "title": "华为Mate90系列或将秋季登场，这次芯片将用上“韬定律”",
+          "url": "https://www.cls.cn/detail/2417798",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时34分"
+        },
+        {
+          "title": "【焦点复盘】三大指数全天缩量探底，全市场仅30余股涨停，资金逆势抱团半导体设备股",
+          "url": "https://www.cls.cn/detail/2419286",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
+          "title": "A股存储芯片板块午后走弱，北京君正跌超10%，普冉股份、德明利、江波龙、香农芯创、佰维存储跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3129772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "网传新能源车智驾芯片新规系谣言",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E6%99%BA%E9%A9%BE%E8%8A%AF%E7%89%87%E6%96%B0%E8%A7%84%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
+          "title": "A股半导体芯片股震荡拉升，东微半导大涨超18%，瑞芯微涨停，沐曦股份、芯原股份、芯动联科、安路科技涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3129672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时41分"
+        },
+        {
+          "title": "智驾芯片70%自主化新规系谣言",
+          "url": "https://www.toutiao.com/trending/7659304880201515034/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
+          "title": "三星二季度运营利润同比激增超1800%，AI需求继续提振存储芯片价格",
+          "url": "https://wallstreetcn.com/livenews/3129593",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "消息人士表示，新思科技已于4月和5月向10多家芯片制造商通报了其软件套件的“停产”计划，公司将停产部分老旧分析产品，以将资源转向最具价值的产品。",
+          "url": "https://flash.jin10.com/detail/20260707141726926800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨1.71%，报6013.62点。 热门中概股里，比亚迪、腾讯、日月光半导体、阿特斯太阳能初步收涨4.5%，蔚来、美团涨4.1%，小鹏涨3.6%，新东方、网易涨3%，阿里巴巴涨1.9%。 ETF中，中概互联网指数ETF（KWEB）收涨2.40%，中国科技指数ETF（CQQQ）收涨0.83%。 MSCI新兴市场ex中国ETF（EMXC）收涨3.31%，德银嘉实沪深300指数ETF（ASHR）收涨1.17%，XtrackersHarvest中证50（ASHS）收跌0.58%。",
+          "url": "https://wallstreetcn.com/livenews/3129546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时20分"
+        },
+        {
+          "title": "威刚：Q3内存将涨价20%-30% 闪存将涨价35%-40%",
+          "url": "https://flash.jin10.com/detail/20260707180138994800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
@@ -564,6 +869,17 @@
           "time_info": "[05时20分 ~ 06时57分]"
         },
         {
+          "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
+          "url": "https://wallstreetcn.com/articles/3776359",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
           "title": "三星电子公布业绩预告后，闪迪(SNDK.O)和美光科技(MU.O)美股盘后走低，现分别跌1.2%和0.7%。",
           "url": "https://flash.jin10.com/detail/20260707065433008800",
           "source": "金十数据",
@@ -597,6 +913,17 @@
           "time_info": "06时57分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-07-07）",
+          "url": "https://flash.jin10.com/detail/20260707202455784800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        },
+        {
           "title": "金十图示：2026年07月06日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260707040552066800",
           "source": "金十数据",
@@ -621,189 +948,8 @@
       ]
     },
     {
-      "keyword_group": "半导体 CPO 存储芯片 芯片 内存",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "【早报】道指创新高，存储、半导体板块爆发；黄金、白银大涨，油价下跌；C罗告别世界杯",
-          "url": "https://www.cls.cn/detail/2418591",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时58分 ~ 14时37分]"
-        },
-        {
-          "title": "创业板跌近2%，科创50巨震后收涨1%，PCB、CPO齐跌，创新药逆势再爆发，恒指涨超1%三连涨",
-          "url": "https://wallstreetcn.com/articles/3776252",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时34分 ~ 14时37分]"
-        },
-        {
-          "title": "【焦点复盘】科创50“深V”回升结束3连跌，新版“韬定律”提振芯片产业链，机器人概念遭深幅回调",
-          "url": "https://www.cls.cn/detail/2418140",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时34分 ~ 07时59分]"
-        },
-        {
-          "title": "存储芯片涨价潮持续！三星Q2营业利润飙升18倍 再创历史新高",
-          "url": "https://www.cls.cn/detail/2418641",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时41分 ~ 14时37分]"
-        },
-        {
-          "title": "大摩告诉客户：是时候“卖芯片、买云”，“存储”类似“白银”见顶",
-          "url": "https://wallstreetcn.com/articles/3776333",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时41分 ~ 18时18分]"
-        },
-        {
-          "title": "两大利空实为误读？野村：市场对存储芯片需求降温的恐慌明显过度",
-          "url": "https://www.cls.cn/detail/2417818",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时34分"
-        },
-        {
-          "title": "内存价格一路上涨，硬盘价格水涨船高",
-          "url": "https://wallstreetcn.com/livenews/3129588",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时57分 ~ 07时59分]"
-        },
-        {
-          "title": "韩股崩跌熔断拖累全球市场！三星跌10%、美光盘前跌超6％，欧洲半导体股普跌，日元162水平徘徊",
-          "url": "https://wallstreetcn.com/articles/3776355",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "华为Mate90系列或将秋季登场，这次芯片将用上“韬定律”",
-          "url": "https://www.cls.cn/detail/2417798",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时34分"
-        },
-        {
-          "title": "A股存储芯片板块午后走弱，北京君正跌超10%，普冉股份、德明利、江波龙、香农芯创、佰维存储跌幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3129772",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时37分"
-        },
-        {
-          "title": "A股半导体芯片股震荡拉升，东微半导大涨超18%，瑞芯微涨停，沐曦股份、芯原股份、芯动联科、安路科技涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3129672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时41分"
-        },
-        {
-          "title": "三星二季度运营利润同比激增超1800%，AI需求继续提振存储芯片价格",
-          "url": "https://wallstreetcn.com/livenews/3129593",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "消息人士表示，新思科技已于4月和5月向10多家芯片制造商通报了其软件套件的“停产”计划，公司将停产部分老旧分析产品，以将资源转向最具价值的产品。",
-          "url": "https://flash.jin10.com/detail/20260707141726926800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时37分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数收涨1.71%，报6013.62点。 热门中概股里，比亚迪、腾讯、日月光半导体、阿特斯太阳能初步收涨4.5%，蔚来、美团涨4.1%，小鹏涨3.6%，新东方、网易涨3%，阿里巴巴涨1.9%。 ETF中，中概互联网指数ETF（KWEB）收涨2.40%，中国科技指数ETF（CQQQ）收涨0.83%。 MSCI新兴市场ex中国ETF（EMXC）收涨3.31%，德银嘉实沪深300指数ETF（ASHR）收涨1.17%，XtrackersHarvest中证50（ASHS）收跌0.58%。",
-          "url": "https://wallstreetcn.com/livenews/3129546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        },
-        {
-          "title": "威刚：Q3内存将涨价20%-30% 闪存将涨价35%-40%",
-          "url": "https://flash.jin10.com/detail/20260707180138994800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "现场：伊朗民众向灵车抛投鲜花、头巾",
@@ -825,7 +971,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -852,6 +998,17 @@
           "time_info": "03时31分"
         },
         {
+          "title": "送葬与袭船同步发生，伊朗在关键节点对外释放两大信号",
+          "url": "https://news.ifeng.com/c/8uZB2jJTHNt",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时18分 ~ 21时11分]"
+        },
+        {
           "title": "伊朗最高领袖发布任免令",
           "url": "https://news.ifeng.com/c/8uX0AQwmuwO",
           "source": "凤凰网",
@@ -863,15 +1020,15 @@
           "time_info": "01时34分"
         },
         {
-          "title": "送葬与袭船同步发生，伊朗在关键节点对外释放两大信号",
-          "url": "https://news.ifeng.com/c/8uZB2jJTHNt",
-          "source": "凤凰网",
+          "title": "卡塔尔方面表示，要求伊朗停止危害安全的行为。",
+          "url": "https://flash.jin10.com/detail/20260707203236639800",
+          "source": "金十数据",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时18分"
+          "time_info": "21时11分"
         },
         {
           "title": "伊朗外长：若威胁继续 不会启动最终谈判",
@@ -994,7 +1151,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
