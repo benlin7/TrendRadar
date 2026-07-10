@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T13:53:27.450803+08:00",
-  "total_titles_processed": 939,
+  "generated_at": "2026-07-10T17:08:02.677500+08:00",
+  "total_titles_processed": 1114,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时12分 ~ 05时11分]"
+        },
+        {
+          "title": "伊朗发生致命枪击事件，距哈梅内伊安葬地仅17公里",
+          "url": "https://news.ifeng.com/c/8udfBwd2vGP",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 17时08分]"
         },
         {
           "title": "伊朗发射巡航导弹袭击美国舰艇",
@@ -45,27 +57,16 @@
           "time_info": "[09时46分 ~ 13时53分]"
         },
         {
-          "title": "伊朗发生致命枪击事件，距哈梅内伊安葬地仅17公里",
-          "url": "https://news.ifeng.com/c/8udfBwd2vGP",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时46分 ~ 13时53分]"
-        },
-        {
           "title": "霍尔木兹危机冲击供应：伊朗被曝24小时紧急运出超千万桶原油、卡塔尔暂停LNG产能恢复",
           "url": "https://wallstreetcn.com/articles/3776602",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时46分 ~ 13时53分]"
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 17时08分]"
         },
         {
           "title": "沙特阿拉伯和加拿大联合声明：谴责伊朗对霍尔木兹海峡商船的攻击。",
@@ -359,7 +360,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
@@ -383,6 +384,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时12分 ~ 09时47分]"
+        },
+        {
+          "title": "特朗普称“日本导弹”打美国航母，白宫回应",
+          "url": "https://news.ifeng.com/c/8udg4food2U",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 17时08分]"
         },
         {
           "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
@@ -413,7 +426,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -427,18 +440,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时12分 ~ 07时02分]"
-        },
-        {
-          "title": "特朗普称“日本导弹”打美国航母，白宫回应",
-          "url": "https://news.ifeng.com/c/8udg4food2U",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时46分 ~ 13时53分]"
         },
         {
           "title": "乌克兰总统泽连斯基：与美国总统特朗普详细讨论了爱国者导弹生产的许可证问题。",
@@ -463,6 +464,19 @@
           "time_info": "05时11分"
         },
         {
+          "title": "特朗普搞中国那套，拿来对付西班牙？",
+          "url": "https://news.ifeng.com/c/8udchHV60GP",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 17时08分]"
+        },
+        {
           "title": "美国商务部长卢特尼克：总统特朗普知道油价会保持在低位。（福克斯商业新闻）",
           "url": "https://wallstreetcn.com/livenews/3131518",
           "source": "华尔街见闻-快讯",
@@ -475,16 +489,16 @@
           "time_info": "[03时20分 ~ 05时11分]"
         },
         {
-          "title": "特朗普搞中国那套，拿来对付西班牙？",
-          "url": "https://news.ifeng.com/c/8udchHV60GP",
+          "title": "特朗普“把自己困住了”，陷入两难",
+          "url": "https://news.ifeng.com/c/8uddEUs34xh",
           "source": "凤凰网",
           "ranks": [
-            6,
+            8,
             7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时46分 ~ 13时53分]"
+          "time_info": "[13时53分 ~ 17时08分]"
         },
         {
           "title": "特朗普扬言再次狠狠打击伊朗，还把伊朗说成“日本伊斯兰共和国”",
@@ -507,17 +521,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
-        },
-        {
-          "title": "特朗普“把自己困住了”，陷入两难",
-          "url": "https://news.ifeng.com/c/8uddEUs34xh",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时53分"
         },
         {
           "title": "内塔尼亚胡与特朗普通话 商定保持两国政策协调",
@@ -592,7 +595,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -617,12 +620,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "以色列媒体：以愿参与对伊打击 正等特朗普表态",
+          "url": "https://wallstreetcn.com/livenews/3131864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         }
       ]
     },
     {
       "keyword_group": "半导体 CPO 存储芯片 芯片 内存",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "半导体行业两大催化共振 科创50创今年最大单日涨幅",
@@ -717,6 +731,17 @@
           "time_info": "[01时12分 ~ 03时20分]"
         },
         {
+          "title": "AI“狂吞”存储恐冲击经济 美商务部长敦促韩国“芯片双雄”在美扩产",
+          "url": "https://www.cls.cn/detail/2422428",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时07分 ~ 17时08分]"
+        },
+        {
           "title": "存储模组大厂透露：内存将继续涨价",
           "url": "https://flash.jin10.com/detail/20260710093121723800",
           "source": "金十数据",
@@ -800,7 +825,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
         },
@@ -829,6 +854,190 @@
       ]
     },
     {
+      "keyword_group": "anthropic claude gemini chatgpt openai",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
+          "url": "https://wallstreetcn.com/articles/3776605",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 17时08分]"
+        },
+        {
+          "title": "如何评价 OpenAI 正式推出的 GPT-5.6 系列模型？使用体验如何？",
+          "url": "https://www.zhihu.com/question/2058734226548250080",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 09时47分]"
+        },
+        {
+          "title": "伯南克加入Anthropic，负责监督信托机构",
+          "url": "https://wallstreetcn.com/livenews/3131477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "OpenAI：正式推出GPT-5.6系列模型，面向公众开放使用。",
+          "url": "https://flash.jin10.com/detail/20260710010752704800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "OpenAI：GPT-5.6系列模型Sol、Terra、Luna将登陆Chatgpt、Codex及API。",
+          "url": "https://flash.jin10.com/detail/20260710010603930800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "全天候原油期货闯关失败 OpenAI产品和商业负责人因病辞职 | 环球市场",
+          "url": "https://www.cls.cn/detail/2422299",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时07分 ~ 17时08分]"
+        },
+        {
+          "title": "如何看待 Codex 与 ChatGPT 合并，实际使用体验有什么变化？",
+          "url": "https://www.zhihu.com/question/2058849029027632241",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时07分 ~ 17时08分]"
+        },
+        {
+          "title": "OpenAI：Chatgpt Work将开始向网页版和移动端的Pro、Enterprise及Edu用户推出，Plus和Business用户将在未来几天陆续获得访问权限。",
+          "url": "https://flash.jin10.com/detail/20260710010338995800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "OpenAI：推出由GPT-5.6驱动的Chatgpt Work，这是我们最新的前沿模型系列。全新Chatgpt桌面应用将聊天、工作与Codex整合在一起。",
+          "url": "https://flash.jin10.com/detail/20260710010136280800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "OpenAI：GPT‑5.6现已成为微软365 Copilot的首选模型。",
+          "url": "https://flash.jin10.com/detail/20260710040649835800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "OpenAI：微软将通过API调用其模型，向Microsoft 365客户推出GPT-5.6服务。",
+          "url": "https://flash.jin10.com/detail/20260710040229258800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "马斯克点评Anthropic：该公司目前是AI领域的领跑者。",
+          "url": "https://wallstreetcn.com/livenews/3131501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        },
+        {
+          "title": "据The Information：Cursor正开发AI智能代理，欲对标Claude Cowork。",
+          "url": "https://flash.jin10.com/detail/20260710035905609800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "Anthropic聘请前美联储主席伯南克为监督信托委员会成员",
+          "url": "https://flash.jin10.com/detail/20260710003514227800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "市场消息：Anthropic聘请前美联储主席伯南克，负责监督信托机构。",
+          "url": "https://flash.jin10.com/detail/20260710003357915800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "OpenAI推出ChatGPT Work智能体，可连续数小时处理任务",
+          "url": "https://wallstreetcn.com/livenews/3131490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 15,
       "titles": [
@@ -852,8 +1061,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时46分 ~ 13时53分]"
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 17时08分]"
         },
         {
           "title": "【早报】美股贵金属、存储股集体爆发；油价下挫，黄金走强；兆易创新、工业富联等业绩预计倍增；法国成首支四强球队",
@@ -1000,167 +1209,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "anthropic claude gemini chatgpt openai",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "如何评价 OpenAI 正式推出的 GPT-5.6 系列模型？使用体验如何？",
-          "url": "https://www.zhihu.com/question/2058734226548250080",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时46分 ~ 09时47分]"
-        },
-        {
-          "title": "伯南克加入Anthropic，负责监督信托机构",
-          "url": "https://wallstreetcn.com/livenews/3131477",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "OpenAI：正式推出GPT-5.6系列模型，面向公众开放使用。",
-          "url": "https://flash.jin10.com/detail/20260710010752704800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "OpenAI：GPT-5.6系列模型Sol、Terra、Luna将登陆Chatgpt、Codex及API。",
-          "url": "https://flash.jin10.com/detail/20260710010603930800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "GPT-5.6全面发布！同步发布新ChatGPT智能体，奥特曼称和美政府沟通后做出“许多调整”",
-          "url": "https://wallstreetcn.com/articles/3776605",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时46分 ~ 13时53分]"
-        },
-        {
-          "title": "OpenAI：Chatgpt Work将开始向网页版和移动端的Pro、Enterprise及Edu用户推出，Plus和Business用户将在未来几天陆续获得访问权限。",
-          "url": "https://flash.jin10.com/detail/20260710010338995800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "OpenAI：推出由GPT-5.6驱动的Chatgpt Work，这是我们最新的前沿模型系列。全新Chatgpt桌面应用将聊天、工作与Codex整合在一起。",
-          "url": "https://flash.jin10.com/detail/20260710010136280800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "OpenAI：GPT‑5.6现已成为微软365 Copilot的首选模型。",
-          "url": "https://flash.jin10.com/detail/20260710040649835800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "OpenAI：微软将通过API调用其模型，向Microsoft 365客户推出GPT-5.6服务。",
-          "url": "https://flash.jin10.com/detail/20260710040229258800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "马斯克点评Anthropic：该公司目前是AI领域的领跑者。",
-          "url": "https://wallstreetcn.com/livenews/3131501",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
-        },
-        {
-          "title": "据The Information：Cursor正开发AI智能代理，欲对标Claude Cowork。",
-          "url": "https://flash.jin10.com/detail/20260710035905609800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "Anthropic聘请前美联储主席伯南克为监督信托委员会成员",
-          "url": "https://flash.jin10.com/detail/20260710003514227800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "市场消息：Anthropic聘请前美联储主席伯南克，负责监督信托机构。",
-          "url": "https://flash.jin10.com/detail/20260710003357915800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "OpenAI推出ChatGPT Work智能体，可连续数小时处理任务",
-          "url": "https://wallstreetcn.com/livenews/3131490",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时20分"
         }
       ]
     },
