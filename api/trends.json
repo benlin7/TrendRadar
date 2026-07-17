@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T19:14:34.831764+08:00",
-  "total_titles_processed": 1449,
+  "generated_at": "2026-07-17T21:03:15.537645+08:00",
+  "total_titles_processed": 1596,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 82,
+      "match_count": 88,
       "titles": [
         {
           "title": "伊朗：造成大量美军人员死亡",
@@ -180,7 +180,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -267,6 +267,19 @@
           "time_info": "[02时54分 ~ 03时56分]"
         },
         {
+          "title": "伊朗称摧毁多架美军战斗机",
+          "url": "https://www.toutiao.com/trending/7663410168377380371/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时46分 ~ 21时03分]"
+        },
+        {
           "title": "伊朗阿巴斯港西部传出三次爆炸声",
           "url": "https://flash.jin10.com/detail/20260717023701527800",
           "source": "金十数据",
@@ -312,18 +325,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时52分 ~ 15时10分]"
-        },
-        {
-          "title": "伊朗称摧毁多架美军战斗机",
-          "url": "https://www.toutiao.com/trending/7663410168377380371/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 19时14分]"
         },
         {
           "title": "伊朗革命卫队：伊朗绝不会允许美国介入霍尔木兹海峡事务。伊朗规定的航行路线是安全的，任何偏离该路线的航线都将面临风险，相关船只可能遭受损害。",
@@ -372,6 +373,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时44分 ~ 05时55分]"
+        },
+        {
+          "title": "伊朗称摧毁多架美军战斗机",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E6%91%A7%E6%AF%81%E5%A4%9A%E6%9E%B6%E7%BE%8E%E5%86%9B%E6%88%98%E6%96%97%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 21时03分]"
         },
         {
           "title": "伊朗多地遭袭击",
@@ -424,7 +436,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -449,6 +461,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
+        },
+        {
+          "title": "伊朗前外长萨利希：伊朗无意加剧紧张局势或激化中东局势，地区安全程度越高，对伊朗的利益也越大。",
+          "url": "https://flash.jin10.com/detail/20260717203606964800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "美军发动新一轮空袭，连续第五晚打击伊朗",
@@ -493,6 +516,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
+        },
+        {
+          "title": "伊朗前外长萨利希：通过彼此合作，我们可以找到一条走出中东当前危机、造福地区所有国家和人民的道路。",
+          "url": "https://flash.jin10.com/detail/20260717203558063800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "伊朗阿巴斯港西部传出三次爆炸声",
@@ -570,6 +604,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时56分"
+        },
+        {
+          "title": "伊朗前外长萨利希：地区国家是时候停止“相互指责的游戏”，回到对话桌前了。",
+          "url": "https://flash.jin10.com/detail/20260717203548286800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "伊朗革命卫队：伊朗具备与敌人长期作战的能力。",
@@ -743,7 +788,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -792,6 +837,17 @@
           "time_info": "15时10分"
         },
         {
+          "title": "报道：美军袭击伊朗南部发电站和机场",
+          "url": "https://wallstreetcn.com/livenews/3135700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
           "title": "美军称拦截多艘试图突破对伊朗封锁的船只",
           "url": "https://wallstreetcn.com/livenews/3135306",
           "source": "华尔街见闻-快讯",
@@ -820,7 +876,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -880,13 +936,24 @@
           "time_info": "17时46分"
         },
         {
+          "title": "美军袭击摧毁了伊朗一座海上交通控制塔。（伊通社）",
+          "url": "https://wallstreetcn.com/livenews/3135691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
+        },
+        {
           "title": "报道：伊朗供电设施遭袭并面临极端高温",
           "url": "https://wallstreetcn.com/livenews/3135644",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -897,7 +964,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -908,7 +975,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -930,6 +997,19 @@
       "match_count": 28,
       "titles": [
         {
+          "title": "白宫：特朗普将出席世界杯决赛",
+          "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时27分 ~ 21时03分]"
+        },
+        {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
           "url": "https://news.ifeng.com/c/8uoXl1Ao0h2",
           "source": "凤凰网",
@@ -942,17 +1022,15 @@
           "time_info": "[01时02分 ~ 09时28分]"
         },
         {
-          "title": "白宫：特朗普将出席世界杯决赛",
-          "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
+          "title": "中方驳斥特朗普“中国干预美国大选”论调",
+          "url": "https://news.ifeng.com/c/8upog6XKRmu",
           "source": "凤凰网",
           "ranks": [
-            1,
-            2,
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时27分 ~ 19时14分]"
+          "appearance_count": 4,
+          "time_info": "[17时46分 ~ 21时03分]"
         },
         {
           "title": "美国首例！特朗普恼火：可怕的决定，要输给中国了",
@@ -965,17 +1043,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时48分 ~ 09时28分]"
-        },
-        {
-          "title": "中方驳斥特朗普“中国干预美国大选”论调",
-          "url": "https://news.ifeng.com/c/8upog6XKRmu",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 19时14分]"
         },
         {
           "title": "特朗普：我们47年前就应该攻击伊朗，那样会容易得多",
@@ -1132,7 +1199,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -1250,7 +1317,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -1261,8 +1328,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时48分 ~ 19时14分]"
+          "appearance_count": 11,
+          "time_info": "[07时48分 ~ 21时03分]"
         },
         {
           "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
@@ -1345,6 +1412,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "财富管理公司警告“世代级熊市”逼近，美股或回调40%",
+          "url": "https://flash.jin10.com/detail/20260717205306946800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时03分"
         },
         {
           "title": "金十图示：2026年07月16日（周四）美股热门股票行情一览（美股收盘）",
@@ -1444,7 +1522,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -1591,8 +1669,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时02分 ~ 19时14分]"
+          "appearance_count": 12,
+          "time_info": "[01时02分 ~ 21时03分]"
         },
         {
           "title": "沪指跌破3900点，科创50跌4%，存储芯片掀起跌停潮，医药逆势拉升，恒科指涨2%，科网股大反弹",
@@ -1656,6 +1734,17 @@
           "time_info": "[05时54分 ~ 09时28分]"
         },
         {
+          "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
+          "url": "https://wallstreetcn.com/articles/3777165",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时14分 ~ 21时03分]"
+        },
+        {
           "title": "标普500指数跌0.6%，刷新日低，道指跌0.3%，纳指跌1.2%，纳斯达克100指数跌1.6%，半导体指数跌4.8%。",
           "url": "https://wallstreetcn.com/livenews/3135222",
           "source": "华尔街见闻-快讯",
@@ -1677,17 +1766,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时09分 ~ 15时10分]"
-        },
-        {
-          "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
-          "url": "https://wallstreetcn.com/articles/3777165",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
         },
         {
           "title": "沪指重回3800上方，电力银行逆势拉升，医药芯片深度回调，恒科指跌逾4%，AI大模型双雄齐跌、智谱跌超20%",
@@ -1729,7 +1807,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -1751,6 +1829,19 @@
       "match_count": 14,
       "titles": [
         {
+          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
+          "url": "https://wallstreetcn.com/articles/3777152",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时52分 ~ 21时03分]"
+        },
+        {
           "title": "谷歌Gemini模型发布延期传闻引发担忧 股价盘中跳水逾3%",
           "url": "https://www.cls.cn/detail/2428944",
           "source": "财联社热门",
@@ -1762,18 +1853,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时27分 ~ 15时10分]"
-        },
-        {
-          "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
-          "url": "https://wallstreetcn.com/articles/3777152",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时52分 ~ 19时14分]"
         },
         {
           "title": "纳德拉在员工会议上痛批Anthropic对Fable模型的限制：“毫无道理”",
@@ -1907,7 +1986,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         }
@@ -1986,7 +2065,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
