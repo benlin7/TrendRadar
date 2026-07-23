@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T09:44:13.454963+08:00",
-  "total_titles_processed": 802,
+  "generated_at": "2026-07-23T13:15:07.100371+08:00",
+  "total_titles_processed": 996,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 37,
+      "match_count": 43,
       "titles": [
         {
           "title": "伊朗袭击亚马逊公司设施",
@@ -44,6 +44,19 @@
           "time_info": "02时02分"
         },
         {
+          "title": "国际原油价格大幅上涨 伊朗放话或切断海湾能源流动 | 环球市场",
+          "url": "https://www.cls.cn/detail/2434530",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时54分 ~ 13时15分]"
+        },
+        {
           "title": "伊朗议会议长：如果伊朗的安全得不到保障，任何基础设施都不会安全。",
           "url": "https://wallstreetcn.com/livenews/3138346",
           "source": "华尔街见闻-快讯",
@@ -74,18 +87,6 @@
           "ranks": [
             11,
             18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时54分 ~ 09时44分]"
-        },
-        {
-          "title": "国际原油价格大幅上涨 伊朗放话或切断海湾能源流动 | 环球市场",
-          "url": "https://www.cls.cn/detail/2434530",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -125,6 +126,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时43分 ~ 09时44分]"
+        },
+        {
+          "title": "伊朗革命卫队：打击了美军位于科威特的阿里夫坚军营和多哈营地。",
+          "url": "https://flash.jin10.com/detail/20260723124538316800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
         },
         {
           "title": "英国政府正在撤回驻伊朗外交人员。（CNN）",
@@ -193,6 +205,17 @@
           "time_info": "02时02分"
         },
         {
+          "title": "英国外交部说从伊朗暂时撤出工作人员",
+          "url": "https://wallstreetcn.com/livenews/3138600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
+        },
+        {
           "title": "伊朗议会议长卡利巴夫：这场战争的逻辑很明确。要么所有人都承受后果，要么谁都别想置身事外。",
           "url": "https://flash.jin10.com/detail/20260723012742411800",
           "source": "金十数据",
@@ -213,6 +236,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "伊朗革命卫队：袭击了科威特阿尔阿迪里营地和阿里·阿尔萨勒姆空军基地的美军。",
+          "url": "https://flash.jin10.com/detail/20260723123245002800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
         },
         {
           "title": "美军称对伊朗海上封锁已迫使9艘商船改道",
@@ -358,6 +392,28 @@
           "time_info": "05时56分"
         },
         {
+          "title": "美军连续第12晚打击伊朗 持续5个小时",
+          "url": "https://wallstreetcn.com/livenews/3138582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
+        },
+        {
+          "title": "伊朗消息人士说伊朗已准备好应对美军地面入侵",
+          "url": "https://wallstreetcn.com/livenews/3138579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
+        },
+        {
           "title": "科威特军方表示，空中防御系统目前正在拦截“敌对”的伊朗无人机威胁。",
           "url": "https://flash.jin10.com/detail/20260723055754347800",
           "source": "金十数据",
@@ -375,7 +431,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
         },
@@ -400,6 +456,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "美国于美东时间晚上10:30完成对伊朗的最新一轮打击。",
+          "url": "https://wallstreetcn.com/livenews/3138572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
         },
         {
           "title": "美军称对伊朗军事目标发起新一轮打击",
@@ -427,7 +494,7 @@
     },
     {
       "keyword_group": "anthropic claude gemini chatgpt openai",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "6000亿美元→7500亿美元 OpenAI被曝大幅提高算力支出预测",
@@ -452,8 +519,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 09时44分]"
+          "appearance_count": 12,
+          "time_info": "[00时14分 ~ 13时15分]"
         },
         {
           "title": "OpenAI 模型「失控」入侵全球最大 AI 开源社区，敲响了哪些 AI 安全警钟？",
@@ -483,6 +550,18 @@
           "time_info": "[00时14分 ~ 09时44分]"
         },
         {
+          "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
+          "url": "https://wallstreetcn.com/articles/3777723",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时43分 ~ 13时15分]"
+        },
+        {
           "title": "OpenAI遭遇史上首次评测失控事故",
           "url": "https://www.baidu.com/s?wd=OpenAI%E9%81%AD%E9%81%87%E5%8F%B2%E4%B8%8A%E9%A6%96%E6%AC%A1%E8%AF%84%E6%B5%8B%E5%A4%B1%E6%8E%A7%E4%BA%8B%E6%95%85",
           "source": "百度热搜",
@@ -507,17 +586,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时14分 ~ 06时53分]"
-        },
-        {
-          "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
-          "url": "https://wallstreetcn.com/articles/3777723",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时43分 ~ 09时44分]"
         },
         {
           "title": "OpenAI现安全事故中国大模型救场",
@@ -575,6 +643,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时54分 ~ 09时44分]"
+        },
+        {
+          "title": "月之暗面 KimiK3 发布后，Anthropic 为何成外网主要吐槽对象？",
+          "url": "https://www.zhihu.com/question/2062640157015249755",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 13时15分]"
         },
         {
           "title": "OpenAI：将承诺提供300万美元的API支持，用于两项大规模科学活动，以针对重大科学挑战测试前沿模型。",
@@ -650,6 +729,17 @@
           "time_info": "[00时14分 ~ 07时54分]"
         },
         {
+          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时52分 ~ 13时15分]"
+        },
+        {
           "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
           "url": "https://wallstreetcn.com/articles/3777518",
           "source": "华尔街见闻",
@@ -659,6 +749,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时14分 ~ 06时53分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收低 美伊互放狠话重燃加息预期",
+          "url": "https://www.cls.cn/detail/2434473",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[05时56分 ~ 13时15分]"
         },
         {
           "title": "AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%",
@@ -672,30 +775,6 @@
           "time_info": "[00时14分 ~ 05时56分]"
         },
         {
-          "title": "油价飙至六周高位，美股指承压收跌，AI基建股盘后大涨，金银再走强",
-          "url": "https://wallstreetcn.com/articles/3777614",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时52分 ~ 09时44分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收低 美伊互放狠话重燃加息预期",
-          "url": "https://www.cls.cn/detail/2434473",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时56分 ~ 09时44分]"
-        },
-        {
           "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
           "url": "https://www.cls.cn/detail/2434518",
           "source": "财联社热门",
@@ -703,8 +782,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时54分 ~ 09时44分]"
+          "appearance_count": 5,
+          "time_info": "[07时54分 ~ 13时15分]"
         },
         {
           "title": "国际黄金、石油、铜、美股、美元再现同步上涨，日元兑美元跌破 163，对此你怎么看？",
@@ -825,7 +904,7 @@
     },
     {
       "keyword_group": "半导体 CPO 存储芯片 芯片 内存",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "Meta定制版AMD MI450芯片算力减半、内存大缩水，SemiAnalysis：这是Meta公司文化的悲哀",
@@ -839,6 +918,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时14分 ~ 07时54分]"
+        },
+        {
+          "title": "中国“芯片刻刀”终于出鞘",
+          "url": "https://www.toutiao.com/trending/7664586420367376438/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 13时15分]"
         },
         {
           "title": "据韩国《中央日报》：三星电子与SK海力士第一季度的平均营业利润率为69%，而其他芯片相关企业为8%。",
@@ -874,6 +964,18 @@
           "time_info": "05时56分"
         },
         {
+          "title": "特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”",
+          "url": "https://wallstreetcn.com/articles/3777724",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时43分 ~ 13时15分]"
+        },
+        {
           "title": "中国“芯片刻刀”终于出鞘",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E2%80%9C%E8%8A%AF%E7%89%87%E5%88%BB%E5%88%80%E2%80%9D%E7%BB%88%E4%BA%8E%E5%87%BA%E9%9E%98",
           "source": "百度热搜",
@@ -898,24 +1000,13 @@
           "time_info": "[06时52分 ~ 07时54分]"
         },
         {
-          "title": "特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”",
-          "url": "https://wallstreetcn.com/articles/3777724",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时43分 ~ 09时44分]"
-        },
-        {
           "title": "A股CPO板块连日走强，锐捷网络涨超5%，联特科技、联讯仪器双双涨超4%，共进股份、剑桥科技、中际旭创、光迅科技、天孚通信等个股跟涨。联讯仪器此前公告，预计公司上半年净利润5.10亿元-5.80亿元，同比增长802%-926%。",
           "url": "https://flash.jin10.com/detail/20260723092846500800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
         },
@@ -948,7 +1039,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
         },
@@ -970,7 +1061,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
         },
@@ -1000,7 +1091,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
@@ -1023,8 +1114,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时56分 ~ 09时44分]"
+          "appearance_count": 8,
+          "time_info": "[05时56分 ~ 13时15分]"
+        },
+        {
+          "title": "污蔑中国遭驳斥后，特朗普自曝：美国对中国“做过一些事”",
+          "url": "https://news.ifeng.com/c/8uyHXh9awI8",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时43分 ~ 13时15分]"
         },
         {
           "title": "特朗普：预计美联邦政府在9月将出现“停摆”",
@@ -1039,15 +1142,15 @@
           "time_info": "[07时54分 ~ 09时44分]"
         },
         {
-          "title": "污蔑中国遭驳斥后，特朗普自曝：美国对中国“做过一些事”",
-          "url": "https://news.ifeng.com/c/8uyHXh9awI8",
+          "title": "特朗普：我们与伊朗只是小规模冲突",
+          "url": "https://news.ifeng.com/c/8uzZogT1UTe",
           "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时43分 ~ 09时44分]"
+          "time_info": "[13时14分 ~ 13时15分]"
         },
         {
           "title": "新闻蒸馏器｜特朗普关税或将“换壳”：覆盖60国，税率10%至12.5%",
@@ -1073,6 +1176,19 @@
           "time_info": "04时06分"
         },
         {
+          "title": "特朗普宣布两年后对仿制药征收 100% 关税，该举措出于什么目的？会对相关产业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2063183942509754265",
+          "source": "知乎",
+          "ranks": [
+            15,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时54分 ~ 13时15分]"
+        },
+        {
           "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
           "url": "https://wallstreetcn.com/articles/3777603",
           "source": "华尔街见闻",
@@ -1095,16 +1211,15 @@
           "time_info": "[00时14分 ~ 04时06分]"
         },
         {
-          "title": "特朗普宣布两年后对仿制药征收 100% 关税，该举措出于什么目的？会对相关产业带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2063183942509754265",
-          "source": "知乎",
+          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
+          "url": "https://wallstreetcn.com/articles/3777708",
+          "source": "华尔街见闻",
           "ranks": [
-            15,
-            17
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时54分 ~ 09时44分]"
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 13时15分]"
         },
         {
           "title": "美媒：美国向中东增派兵力，为特朗普扩大对伊战事提供更多选项",
