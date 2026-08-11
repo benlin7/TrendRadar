@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T22:12:33.453359+08:00",
-  "total_titles_processed": 1601,
+  "generated_at": "2026-08-11T23:50:20.890019+08:00",
+  "total_titles_processed": 1717,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时17分 ~ 22时12分]"
+          "appearance_count": 11,
+          "time_info": "[12时17分 ~ 23时50分]"
         },
         {
           "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
@@ -93,6 +93,18 @@
           "time_info": "[08时50分 ~ 18时42分]"
         },
         {
+          "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
+          "url": "https://news.ifeng.com/c/8vVVzg0SEzI",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时39分 ~ 23时50分]"
+        },
+        {
           "title": "外媒曝出惊人消息：特朗普放弃对伊朗的头号要求",
           "url": "https://news.ifeng.com/c/8vUFosuJumv",
           "source": "凤凰网",
@@ -103,17 +115,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时50分 ~ 13时47分]"
-        },
-        {
-          "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
-          "url": "https://news.ifeng.com/c/8vVVzg0SEzI",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时39分 ~ 22时12分]"
         },
         {
           "title": "特朗普称要向伊朗索赔",
@@ -157,7 +158,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         },
@@ -367,7 +368,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         },
@@ -389,7 +390,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         },
@@ -422,7 +423,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         },
@@ -455,7 +456,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         },
@@ -477,7 +478,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         },
@@ -499,7 +500,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         },
@@ -521,9 +522,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
+        },
+        {
+          "title": "市场消息：美国公民自由联盟（ACLU）及其他法律团体请求美国法官阻止特朗普最新限制“出生公民权”的行动。",
+          "url": "https://flash.jin10.com/detail/20260811224133543800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
         },
         {
           "title": "特朗普要求伊朗赔偿 称将纳入未来谈判",
@@ -584,7 +596,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
         {
           "title": "结束会晤后，伊朗总统透露最高领袖身体状况",
@@ -593,11 +605,12 @@
           "ranks": [
             5,
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时50分 ~ 22时12分]"
+          "appearance_count": 13,
+          "time_info": "[08时50分 ~ 23时50分]"
         },
         {
           "title": "伊朗最高领袖调整6名军方高层，美媒：德黑兰发出了信号",
@@ -678,6 +691,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时50分 ~ 08时51分]"
+        },
+        {
+          "title": "伊朗讽美：对制裁“病态依赖”，丧失了独立思考能力",
+          "url": "https://news.ifeng.com/c/8vVLJAifXPo",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时49分 ~ 23时50分]"
         },
         {
           "title": "伊朗警告乌克兰不赔偿就动手",
@@ -782,6 +806,19 @@
           "time_info": "[01时43分 ~ 02时41分]"
         },
         {
+          "title": "伊朗高层近期密集调整军政核心职位，是出于哪些考虑？向外界传递了怎样的信息？",
+          "url": "https://www.zhihu.com/question/2070450417981469090",
+          "source": "知乎",
+          "ranks": [
+            19,
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时39分 ~ 23时50分]"
+        },
+        {
           "title": "伊朗总统之子反思伊朗国际形象",
           "url": "https://www.toutiao.com/trending/7671499615899877402/",
           "source": "今日头条",
@@ -827,18 +864,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时17分 ~ 12时18分]"
-        },
-        {
-          "title": "伊朗高层近期密集调整军政核心职位，是出于哪些考虑？向外界传递了怎样的信息？",
-          "url": "https://www.zhihu.com/question/2070450417981469090",
-          "source": "知乎",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时39分 ~ 22时12分]"
         },
         {
           "title": "伊朗革命卫队海军司令：任何外国船只经过霍尔木兹海峡，都逃不过伊朗军方的识别、追踪与监控。",
@@ -926,7 +951,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         },
@@ -951,6 +976,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        },
+        {
+          "title": "分析人士：伊朗在霍尔木兹海峡的谈判筹码正在“贬值”",
+          "url": "https://flash.jin10.com/detail/20260811230011449800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
         },
         {
           "title": "伊朗最高领袖对武装部队进行新任命",
@@ -1003,7 +1039,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         },
@@ -1069,7 +1105,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         },
@@ -1099,7 +1135,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -1109,8 +1145,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时50分 ~ 22时12分]"
+          "appearance_count": 13,
+          "time_info": "[08时50分 ~ 23时50分]"
         },
         {
           "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
@@ -1165,11 +1201,35 @@
           "url": "https://wallstreetcn.com/articles/3779161",
           "source": "华尔街见闻",
           "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时12分 ~ 23时50分]"
+        },
+        {
+          "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2451601",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时12分 ~ 23时50分]"
+        },
+        {
+          "title": "散户观望，机构掉队！惨淡情绪下，美股即将出现新机会？",
+          "url": "https://flash.jin10.com/detail/20260811230408718800",
+          "source": "金十数据",
+          "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时12分"
+          "time_info": "23时50分"
         },
         {
           "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股期指走高，黄金冲高回落",
@@ -1189,18 +1249,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时12分"
-        },
-        {
-          "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2451601",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         },
@@ -1211,7 +1260,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         },
@@ -1277,7 +1326,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         },
@@ -1288,7 +1337,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         },
@@ -1310,7 +1359,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         },
@@ -1351,7 +1400,7 @@
     },
     {
       "keyword_group": "anthropic claude gemini chatgpt openai",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "如何评价 Anthropic 宣布将黎曼猜想的已知下界从 41.6% 提高到了 67.2%？",
@@ -1469,6 +1518,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时25分 ~ 08时51分]"
+        },
+        {
+          "title": "Claude 证明黎曼猜想取得了重大突破，这个事件有什么开创性意义？",
+          "url": "https://www.zhihu.com/question/2070452772391194651",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时49分 ~ 23时50分]"
         },
         {
           "title": "报道：Anthropic与比特币挖矿公司Riot达成91亿美元算力协议",
@@ -1629,6 +1689,19 @@
           "time_info": "[00时42分 ~ 07时25分]"
         },
         {
+          "title": "沪指缩量调整跌0.8%，医药、机器人逆势大涨，半导体新股IPO首日暴涨740%，恒科指跌近2%",
+          "url": "https://wallstreetcn.com/articles/3779141",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时41分 ~ 23时50分]"
+        },
+        {
           "title": "硬盘、内存价格还会降回去吗？",
           "url": "https://www.zhihu.com/question/2011092640041570925",
           "source": "知乎",
@@ -1652,19 +1725,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
-        },
-        {
-          "title": "沪指缩量调整跌0.8%，医药、机器人逆势大涨，半导体新股IPO首日暴涨740%，恒科指跌近2%",
-          "url": "https://wallstreetcn.com/articles/3779141",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时41分 ~ 22时12分]"
         },
         {
           "title": "台积电因内存短缺积压10亿美元苹果芯片？分析师郭明錤否认",
