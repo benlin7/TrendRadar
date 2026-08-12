@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T07:29:48.082383+08:00",
-  "total_titles_processed": 627,
+  "generated_at": "2026-08-12T08:58:07.227147+08:00",
+  "total_titles_processed": 745,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "伊朗讽美：对制裁“病态依赖”，丧失了独立思考能力",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 07时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 08时58分]"
         },
         {
           "title": "结束会晤后，伊朗总统透露最高领袖身体状况",
@@ -142,6 +142,18 @@
           "time_info": "[02时45分 ~ 05时35分]"
         },
         {
+          "title": "伊朗石油部长：伊天然气日产能有望大幅回升",
+          "url": "https://wallstreetcn.com/livenews/3148273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 08时58分]"
+        },
+        {
           "title": "伊朗高级官员：美必须接受伊方条件换取霍尔木兹海峡开放",
           "url": "https://wallstreetcn.com/livenews/3148166",
           "source": "华尔街见闻-快讯",
@@ -152,6 +164,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时45分 ~ 01时48分]"
+        },
+        {
+          "title": "伊朗官员称在伊方条件满足前霍尔木兹海峡不会开放 | 环球市场",
+          "url": "https://www.cls.cn/detail/2451814",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 08时58分]"
+        },
+        {
+          "title": "伊朗称在美国满足条件前霍尔木兹海峡不会重开 国际油价短线冲高",
+          "url": "https://www.cls.cn/detail/2451716",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 08时58分]"
         },
         {
           "title": "伊朗革命卫队发言人：今日波斯湾海域没有美国军舰部署。",
@@ -178,23 +212,12 @@
         },
         {
           "title": "伊朗石油部长：伊天然气日产能有望大幅回升",
-          "url": "https://wallstreetcn.com/livenews/3148273",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "伊朗石油部长：伊天然气日产能有望大幅回升",
           "url": "https://flash.jin10.com/detail/20260812063020231800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -293,6 +316,18 @@
       "match_count": 15,
       "titles": [
         {
+          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
+          "url": "https://wallstreetcn.com/articles/3779107",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 08时58分]"
+        },
+        {
           "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
           "url": "https://news.ifeng.com/c/8vVVzg0SEzI",
           "source": "凤凰网",
@@ -301,19 +336,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 07时29分]"
-        },
-        {
-          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
-          "url": "https://wallstreetcn.com/articles/3779107",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 07时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 08时58分]"
         },
         {
           "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
@@ -371,7 +395,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -501,19 +525,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 07时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 08时58分]"
         },
         {
           "title": "美股收盘：美伊僵局施压三大指数续跌 存储&光通信概念整体反弹",
           "url": "https://www.cls.cn/detail/2451784",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时29分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时29分 ~ 08时58分]"
         },
         {
           "title": "CoreWeave美股盘后涨幅扩大至16%。 该公司首席执行官称，第二季度签署的客户合同预期贡献利润率较近几个季度新增合同高出5‑10个百分点。 短期产能实际上已全部售罄，由此促成条款愈发有利的签约订单。",
@@ -626,7 +651,7 @@
     },
     {
       "keyword_group": "anthropic claude gemini chatgpt openai",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "Claude 证明黎曼猜想取得了重大突破，这个事件有什么开创性意义？",
@@ -639,8 +664,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 07时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 08时58分]"
         },
         {
           "title": "据The Information：OpenAI特别项目负责人、前首席运营官Brad Lightcap即将离职。",
@@ -688,6 +713,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时45分 ~ 03时54分]"
+        },
+        {
+          "title": "怎么看 Claude 将在新的 Claude 模型的生成文本里加入隐形水印？",
+          "url": "https://www.zhihu.com/question/2070443311802867884",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 08时58分]"
         },
         {
           "title": "OpenAI：ChatGPT在英国、日本、墨西哥、巴西、韩国新增广告内容。",
@@ -803,7 +839,7 @@
     },
     {
       "keyword_group": "半导体 CPO 存储芯片 芯片 内存",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "世界芯片巨头为何突然“抱紧”河南",
@@ -815,22 +851,35 @@
             29,
             7,
             16,
-            17
+            17,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时48分 ~ 07时29分]"
+          "appearance_count": 8,
+          "time_info": "[01时48分 ~ 08时58分]"
         },
         {
           "title": "【早报】美存储板块，逆势走高；油价上涨、黄金回落；上海印发重磅规划，事关GPU、CPO等",
           "url": "https://www.cls.cn/detail/2451806",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时29分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时29分 ~ 08时58分]"
+        },
+        {
+          "title": "【数读IPO】今日1申购1上市，涉及蓝牙音频芯片龙头等",
+          "url": "https://www.cls.cn/detail/2451807",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 08时58分]"
         }
       ]
     },
